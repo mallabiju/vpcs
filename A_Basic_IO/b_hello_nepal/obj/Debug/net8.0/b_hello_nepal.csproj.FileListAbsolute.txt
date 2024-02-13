@@ -1,0 +1,14 @@
+D:\SCCSB6\A_Basic_IO\b_hello_nepal\bin\Debug\net8.0\b_hello_nepal.exe
+D:\SCCSB6\A_Basic_IO\b_hello_nepal\bin\Debug\net8.0\b_hello_nepal.deps.json
+D:\SCCSB6\A_Basic_IO\b_hello_nepal\bin\Debug\net8.0\b_hello_nepal.runtimeconfig.json
+D:\SCCSB6\A_Basic_IO\b_hello_nepal\bin\Debug\net8.0\b_hello_nepal.dll
+D:\SCCSB6\A_Basic_IO\b_hello_nepal\bin\Debug\net8.0\b_hello_nepal.pdb
+D:\SCCSB6\A_Basic_IO\b_hello_nepal\obj\Debug\net8.0\b_hello_nepal.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\A_Basic_IO\b_hello_nepal\obj\Debug\net8.0\b_hello_nepal.AssemblyInfoInputs.cache
+D:\SCCSB6\A_Basic_IO\b_hello_nepal\obj\Debug\net8.0\b_hello_nepal.AssemblyInfo.cs
+D:\SCCSB6\A_Basic_IO\b_hello_nepal\obj\Debug\net8.0\b_hello_nepal.csproj.CoreCompileInputs.cache
+D:\SCCSB6\A_Basic_IO\b_hello_nepal\obj\Debug\net8.0\b_hello_nepal.dll
+D:\SCCSB6\A_Basic_IO\b_hello_nepal\obj\Debug\net8.0\refint\b_hello_nepal.dll
+D:\SCCSB6\A_Basic_IO\b_hello_nepal\obj\Debug\net8.0\b_hello_nepal.pdb
+D:\SCCSB6\A_Basic_IO\b_hello_nepal\obj\Debug\net8.0\b_hello_nepal.genruntimeconfig.cache
+D:\SCCSB6\A_Basic_IO\b_hello_nepal\obj\Debug\net8.0\ref\b_hello_nepal.dll
