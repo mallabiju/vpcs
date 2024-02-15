@@ -1,0 +1,15 @@
+D:\SCCSB6\C_Data_Types\e_reference_type\bin\Debug\net8.0\e_reference_type.exe
+D:\SCCSB6\C_Data_Types\e_reference_type\bin\Debug\net8.0\e_reference_type.deps.json
+D:\SCCSB6\C_Data_Types\e_reference_type\bin\Debug\net8.0\e_reference_type.runtimeconfig.json
+D:\SCCSB6\C_Data_Types\e_reference_type\bin\Debug\net8.0\e_reference_type.dll
+D:\SCCSB6\C_Data_Types\e_reference_type\bin\Debug\net8.0\e_reference_type.pdb
+D:\SCCSB6\C_Data_Types\e_reference_type\obj\Debug\net8.0\e_reference_type.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\C_Data_Types\e_reference_type\obj\Debug\net8.0\e_reference_type.AssemblyInfoInputs.cache
+D:\SCCSB6\C_Data_Types\e_reference_type\obj\Debug\net8.0\e_reference_type.AssemblyInfo.cs
+D:\SCCSB6\C_Data_Types\e_reference_type\obj\Debug\net8.0\e_reference_type.csproj.CoreCompileInputs.cache
+D:\SCCSB6\C_Data_Types\e_reference_type\obj\Debug\net8.0\e_reference_type.sourcelink.json
+D:\SCCSB6\C_Data_Types\e_reference_type\obj\Debug\net8.0\e_reference_type.dll
+D:\SCCSB6\C_Data_Types\e_reference_type\obj\Debug\net8.0\refint\e_reference_type.dll
+D:\SCCSB6\C_Data_Types\e_reference_type\obj\Debug\net8.0\e_reference_type.pdb
+D:\SCCSB6\C_Data_Types\e_reference_type\obj\Debug\net8.0\e_reference_type.genruntimeconfig.cache
+D:\SCCSB6\C_Data_Types\e_reference_type\obj\Debug\net8.0\ref\e_reference_type.dll

@@ -1,0 +1,15 @@
+D:\SCCSB6\D_Control_Statements\e_switch_integer\bin\Debug\net8.0\e_switch_integer.exe
+D:\SCCSB6\D_Control_Statements\e_switch_integer\bin\Debug\net8.0\e_switch_integer.deps.json
+D:\SCCSB6\D_Control_Statements\e_switch_integer\bin\Debug\net8.0\e_switch_integer.runtimeconfig.json
+D:\SCCSB6\D_Control_Statements\e_switch_integer\bin\Debug\net8.0\e_switch_integer.dll
+D:\SCCSB6\D_Control_Statements\e_switch_integer\bin\Debug\net8.0\e_switch_integer.pdb
+D:\SCCSB6\D_Control_Statements\e_switch_integer\obj\Debug\net8.0\e_switch_integer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\D_Control_Statements\e_switch_integer\obj\Debug\net8.0\e_switch_integer.AssemblyInfoInputs.cache
+D:\SCCSB6\D_Control_Statements\e_switch_integer\obj\Debug\net8.0\e_switch_integer.AssemblyInfo.cs
+D:\SCCSB6\D_Control_Statements\e_switch_integer\obj\Debug\net8.0\e_switch_integer.csproj.CoreCompileInputs.cache
+D:\SCCSB6\D_Control_Statements\e_switch_integer\obj\Debug\net8.0\e_switch_integer.sourcelink.json
+D:\SCCSB6\D_Control_Statements\e_switch_integer\obj\Debug\net8.0\e_switch_integer.dll
+D:\SCCSB6\D_Control_Statements\e_switch_integer\obj\Debug\net8.0\refint\e_switch_integer.dll
+D:\SCCSB6\D_Control_Statements\e_switch_integer\obj\Debug\net8.0\e_switch_integer.pdb
+D:\SCCSB6\D_Control_Statements\e_switch_integer\obj\Debug\net8.0\e_switch_integer.genruntimeconfig.cache
+D:\SCCSB6\D_Control_Statements\e_switch_integer\obj\Debug\net8.0\ref\e_switch_integer.dll

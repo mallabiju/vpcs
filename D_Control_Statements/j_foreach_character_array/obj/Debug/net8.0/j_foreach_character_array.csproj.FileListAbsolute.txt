@@ -1,0 +1,15 @@
+D:\SCCSB6\D_Control_Statements\j_foreach_character_array\bin\Debug\net8.0\j_foreach_character_array.exe
+D:\SCCSB6\D_Control_Statements\j_foreach_character_array\bin\Debug\net8.0\j_foreach_character_array.deps.json
+D:\SCCSB6\D_Control_Statements\j_foreach_character_array\bin\Debug\net8.0\j_foreach_character_array.runtimeconfig.json
+D:\SCCSB6\D_Control_Statements\j_foreach_character_array\bin\Debug\net8.0\j_foreach_character_array.dll
+D:\SCCSB6\D_Control_Statements\j_foreach_character_array\bin\Debug\net8.0\j_foreach_character_array.pdb
+D:\SCCSB6\D_Control_Statements\j_foreach_character_array\obj\Debug\net8.0\j_foreach_character_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\D_Control_Statements\j_foreach_character_array\obj\Debug\net8.0\j_foreach_character_array.AssemblyInfoInputs.cache
+D:\SCCSB6\D_Control_Statements\j_foreach_character_array\obj\Debug\net8.0\j_foreach_character_array.AssemblyInfo.cs
+D:\SCCSB6\D_Control_Statements\j_foreach_character_array\obj\Debug\net8.0\j_foreach_character_array.csproj.CoreCompileInputs.cache
+D:\SCCSB6\D_Control_Statements\j_foreach_character_array\obj\Debug\net8.0\j_foreach_character_array.sourcelink.json
+D:\SCCSB6\D_Control_Statements\j_foreach_character_array\obj\Debug\net8.0\j_foreach_character_array.dll
+D:\SCCSB6\D_Control_Statements\j_foreach_character_array\obj\Debug\net8.0\refint\j_foreach_character_array.dll
+D:\SCCSB6\D_Control_Statements\j_foreach_character_array\obj\Debug\net8.0\j_foreach_character_array.pdb
+D:\SCCSB6\D_Control_Statements\j_foreach_character_array\obj\Debug\net8.0\j_foreach_character_array.genruntimeconfig.cache
+D:\SCCSB6\D_Control_Statements\j_foreach_character_array\obj\Debug\net8.0\ref\j_foreach_character_array.dll

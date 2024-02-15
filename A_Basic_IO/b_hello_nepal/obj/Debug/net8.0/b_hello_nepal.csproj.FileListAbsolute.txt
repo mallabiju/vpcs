@@ -12,3 +12,4 @@ D:\SCCSB6\A_Basic_IO\b_hello_nepal\obj\Debug\net8.0\refint\b_hello_nepal.dll
 D:\SCCSB6\A_Basic_IO\b_hello_nepal\obj\Debug\net8.0\b_hello_nepal.pdb
 D:\SCCSB6\A_Basic_IO\b_hello_nepal\obj\Debug\net8.0\b_hello_nepal.genruntimeconfig.cache
 D:\SCCSB6\A_Basic_IO\b_hello_nepal\obj\Debug\net8.0\ref\b_hello_nepal.dll
+D:\SCCSB6\A_Basic_IO\b_hello_nepal\obj\Debug\net8.0\b_hello_nepal.sourcelink.json

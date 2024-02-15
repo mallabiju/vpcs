@@ -1,0 +1,15 @@
+D:\SCCSB6\A_Basic_IO\d_add_user_input_nums\bin\Debug\net8.0\d_add_user_input_nums.exe
+D:\SCCSB6\A_Basic_IO\d_add_user_input_nums\bin\Debug\net8.0\d_add_user_input_nums.deps.json
+D:\SCCSB6\A_Basic_IO\d_add_user_input_nums\bin\Debug\net8.0\d_add_user_input_nums.runtimeconfig.json
+D:\SCCSB6\A_Basic_IO\d_add_user_input_nums\bin\Debug\net8.0\d_add_user_input_nums.dll
+D:\SCCSB6\A_Basic_IO\d_add_user_input_nums\bin\Debug\net8.0\d_add_user_input_nums.pdb
+D:\SCCSB6\A_Basic_IO\d_add_user_input_nums\obj\Debug\net8.0\d_add_user_input_nums.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\A_Basic_IO\d_add_user_input_nums\obj\Debug\net8.0\d_add_user_input_nums.AssemblyInfoInputs.cache
+D:\SCCSB6\A_Basic_IO\d_add_user_input_nums\obj\Debug\net8.0\d_add_user_input_nums.AssemblyInfo.cs
+D:\SCCSB6\A_Basic_IO\d_add_user_input_nums\obj\Debug\net8.0\d_add_user_input_nums.csproj.CoreCompileInputs.cache
+D:\SCCSB6\A_Basic_IO\d_add_user_input_nums\obj\Debug\net8.0\d_add_user_input_nums.sourcelink.json
+D:\SCCSB6\A_Basic_IO\d_add_user_input_nums\obj\Debug\net8.0\d_add_user_input_nums.dll
+D:\SCCSB6\A_Basic_IO\d_add_user_input_nums\obj\Debug\net8.0\refint\d_add_user_input_nums.dll
+D:\SCCSB6\A_Basic_IO\d_add_user_input_nums\obj\Debug\net8.0\d_add_user_input_nums.pdb
+D:\SCCSB6\A_Basic_IO\d_add_user_input_nums\obj\Debug\net8.0\d_add_user_input_nums.genruntimeconfig.cache
+D:\SCCSB6\A_Basic_IO\d_add_user_input_nums\obj\Debug\net8.0\ref\d_add_user_input_nums.dll

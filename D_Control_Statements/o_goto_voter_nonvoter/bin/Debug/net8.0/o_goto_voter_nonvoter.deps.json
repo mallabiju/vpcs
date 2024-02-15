@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "o_goto_voter_nonvoter/1.0.0": {
+        "runtime": {
+          "o_goto_voter_nonvoter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "o_goto_voter_nonvoter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

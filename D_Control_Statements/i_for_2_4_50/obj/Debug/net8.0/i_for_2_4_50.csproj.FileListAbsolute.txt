@@ -1,0 +1,15 @@
+D:\SCCSB6\D_Control_Statements\i_for_2_4_50\bin\Debug\net8.0\i_for_2_4_50.exe
+D:\SCCSB6\D_Control_Statements\i_for_2_4_50\bin\Debug\net8.0\i_for_2_4_50.deps.json
+D:\SCCSB6\D_Control_Statements\i_for_2_4_50\bin\Debug\net8.0\i_for_2_4_50.runtimeconfig.json
+D:\SCCSB6\D_Control_Statements\i_for_2_4_50\bin\Debug\net8.0\i_for_2_4_50.dll
+D:\SCCSB6\D_Control_Statements\i_for_2_4_50\bin\Debug\net8.0\i_for_2_4_50.pdb
+D:\SCCSB6\D_Control_Statements\i_for_2_4_50\obj\Debug\net8.0\i_for_2_4_50.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\D_Control_Statements\i_for_2_4_50\obj\Debug\net8.0\i_for_2_4_50.AssemblyInfoInputs.cache
+D:\SCCSB6\D_Control_Statements\i_for_2_4_50\obj\Debug\net8.0\i_for_2_4_50.AssemblyInfo.cs
+D:\SCCSB6\D_Control_Statements\i_for_2_4_50\obj\Debug\net8.0\i_for_2_4_50.csproj.CoreCompileInputs.cache
+D:\SCCSB6\D_Control_Statements\i_for_2_4_50\obj\Debug\net8.0\i_for_2_4_50.sourcelink.json
+D:\SCCSB6\D_Control_Statements\i_for_2_4_50\obj\Debug\net8.0\i_for_2_4_50.dll
+D:\SCCSB6\D_Control_Statements\i_for_2_4_50\obj\Debug\net8.0\refint\i_for_2_4_50.dll
+D:\SCCSB6\D_Control_Statements\i_for_2_4_50\obj\Debug\net8.0\i_for_2_4_50.pdb
+D:\SCCSB6\D_Control_Statements\i_for_2_4_50\obj\Debug\net8.0\i_for_2_4_50.genruntimeconfig.cache
+D:\SCCSB6\D_Control_Statements\i_for_2_4_50\obj\Debug\net8.0\ref\i_for_2_4_50.dll

@@ -1,0 +1,15 @@
+D:\SCCSB6\D_Control_Statements\g_do_while_1_to_10\bin\Debug\net8.0\g_do_while_1_to_10.exe
+D:\SCCSB6\D_Control_Statements\g_do_while_1_to_10\bin\Debug\net8.0\g_do_while_1_to_10.deps.json
+D:\SCCSB6\D_Control_Statements\g_do_while_1_to_10\bin\Debug\net8.0\g_do_while_1_to_10.runtimeconfig.json
+D:\SCCSB6\D_Control_Statements\g_do_while_1_to_10\bin\Debug\net8.0\g_do_while_1_to_10.dll
+D:\SCCSB6\D_Control_Statements\g_do_while_1_to_10\bin\Debug\net8.0\g_do_while_1_to_10.pdb
+D:\SCCSB6\D_Control_Statements\g_do_while_1_to_10\obj\Debug\net8.0\g_do_while_1_to_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\D_Control_Statements\g_do_while_1_to_10\obj\Debug\net8.0\g_do_while_1_to_10.AssemblyInfoInputs.cache
+D:\SCCSB6\D_Control_Statements\g_do_while_1_to_10\obj\Debug\net8.0\g_do_while_1_to_10.AssemblyInfo.cs
+D:\SCCSB6\D_Control_Statements\g_do_while_1_to_10\obj\Debug\net8.0\g_do_while_1_to_10.csproj.CoreCompileInputs.cache
+D:\SCCSB6\D_Control_Statements\g_do_while_1_to_10\obj\Debug\net8.0\g_do_while_1_to_10.sourcelink.json
+D:\SCCSB6\D_Control_Statements\g_do_while_1_to_10\obj\Debug\net8.0\g_do_while_1_to_10.dll
+D:\SCCSB6\D_Control_Statements\g_do_while_1_to_10\obj\Debug\net8.0\refint\g_do_while_1_to_10.dll
+D:\SCCSB6\D_Control_Statements\g_do_while_1_to_10\obj\Debug\net8.0\g_do_while_1_to_10.pdb
+D:\SCCSB6\D_Control_Statements\g_do_while_1_to_10\obj\Debug\net8.0\g_do_while_1_to_10.genruntimeconfig.cache
+D:\SCCSB6\D_Control_Statements\g_do_while_1_to_10\obj\Debug\net8.0\ref\g_do_while_1_to_10.dll

@@ -1,0 +1,15 @@
+D:\SCCSB6\D_Control_Statements\f_switch_character\bin\Debug\net8.0\f_switch_character.exe
+D:\SCCSB6\D_Control_Statements\f_switch_character\bin\Debug\net8.0\f_switch_character.deps.json
+D:\SCCSB6\D_Control_Statements\f_switch_character\bin\Debug\net8.0\f_switch_character.runtimeconfig.json
+D:\SCCSB6\D_Control_Statements\f_switch_character\bin\Debug\net8.0\f_switch_character.dll
+D:\SCCSB6\D_Control_Statements\f_switch_character\bin\Debug\net8.0\f_switch_character.pdb
+D:\SCCSB6\D_Control_Statements\f_switch_character\obj\Debug\net8.0\f_switch_character.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\D_Control_Statements\f_switch_character\obj\Debug\net8.0\f_switch_character.AssemblyInfoInputs.cache
+D:\SCCSB6\D_Control_Statements\f_switch_character\obj\Debug\net8.0\f_switch_character.AssemblyInfo.cs
+D:\SCCSB6\D_Control_Statements\f_switch_character\obj\Debug\net8.0\f_switch_character.csproj.CoreCompileInputs.cache
+D:\SCCSB6\D_Control_Statements\f_switch_character\obj\Debug\net8.0\f_switch_character.sourcelink.json
+D:\SCCSB6\D_Control_Statements\f_switch_character\obj\Debug\net8.0\f_switch_character.dll
+D:\SCCSB6\D_Control_Statements\f_switch_character\obj\Debug\net8.0\refint\f_switch_character.dll
+D:\SCCSB6\D_Control_Statements\f_switch_character\obj\Debug\net8.0\f_switch_character.pdb
+D:\SCCSB6\D_Control_Statements\f_switch_character\obj\Debug\net8.0\f_switch_character.genruntimeconfig.cache
+D:\SCCSB6\D_Control_Statements\f_switch_character\obj\Debug\net8.0\ref\f_switch_character.dll

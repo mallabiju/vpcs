@@ -1,0 +1,15 @@
+D:\SCCSB6\A_Basic_IO\f_concat_user_input_strings\bin\Debug\net8.0\f_concat_user_input_strings.exe
+D:\SCCSB6\A_Basic_IO\f_concat_user_input_strings\bin\Debug\net8.0\f_concat_user_input_strings.deps.json
+D:\SCCSB6\A_Basic_IO\f_concat_user_input_strings\bin\Debug\net8.0\f_concat_user_input_strings.runtimeconfig.json
+D:\SCCSB6\A_Basic_IO\f_concat_user_input_strings\bin\Debug\net8.0\f_concat_user_input_strings.dll
+D:\SCCSB6\A_Basic_IO\f_concat_user_input_strings\bin\Debug\net8.0\f_concat_user_input_strings.pdb
+D:\SCCSB6\A_Basic_IO\f_concat_user_input_strings\obj\Debug\net8.0\f_concat_user_input_strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\A_Basic_IO\f_concat_user_input_strings\obj\Debug\net8.0\f_concat_user_input_strings.AssemblyInfoInputs.cache
+D:\SCCSB6\A_Basic_IO\f_concat_user_input_strings\obj\Debug\net8.0\f_concat_user_input_strings.AssemblyInfo.cs
+D:\SCCSB6\A_Basic_IO\f_concat_user_input_strings\obj\Debug\net8.0\f_concat_user_input_strings.csproj.CoreCompileInputs.cache
+D:\SCCSB6\A_Basic_IO\f_concat_user_input_strings\obj\Debug\net8.0\f_concat_user_input_strings.sourcelink.json
+D:\SCCSB6\A_Basic_IO\f_concat_user_input_strings\obj\Debug\net8.0\f_concat_user_input_strings.dll
+D:\SCCSB6\A_Basic_IO\f_concat_user_input_strings\obj\Debug\net8.0\refint\f_concat_user_input_strings.dll
+D:\SCCSB6\A_Basic_IO\f_concat_user_input_strings\obj\Debug\net8.0\f_concat_user_input_strings.pdb
+D:\SCCSB6\A_Basic_IO\f_concat_user_input_strings\obj\Debug\net8.0\f_concat_user_input_strings.genruntimeconfig.cache
+D:\SCCSB6\A_Basic_IO\f_concat_user_input_strings\obj\Debug\net8.0\ref\f_concat_user_input_strings.dll

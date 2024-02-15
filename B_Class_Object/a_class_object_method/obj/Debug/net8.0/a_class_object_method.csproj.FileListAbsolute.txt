@@ -1,0 +1,15 @@
+D:\SCCSB6\B_Class_Object\a_class_object_method\bin\Debug\net8.0\a_class_object_method.exe
+D:\SCCSB6\B_Class_Object\a_class_object_method\bin\Debug\net8.0\a_class_object_method.deps.json
+D:\SCCSB6\B_Class_Object\a_class_object_method\bin\Debug\net8.0\a_class_object_method.runtimeconfig.json
+D:\SCCSB6\B_Class_Object\a_class_object_method\bin\Debug\net8.0\a_class_object_method.dll
+D:\SCCSB6\B_Class_Object\a_class_object_method\bin\Debug\net8.0\a_class_object_method.pdb
+D:\SCCSB6\B_Class_Object\a_class_object_method\obj\Debug\net8.0\a_class_object_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\B_Class_Object\a_class_object_method\obj\Debug\net8.0\a_class_object_method.AssemblyInfoInputs.cache
+D:\SCCSB6\B_Class_Object\a_class_object_method\obj\Debug\net8.0\a_class_object_method.AssemblyInfo.cs
+D:\SCCSB6\B_Class_Object\a_class_object_method\obj\Debug\net8.0\a_class_object_method.csproj.CoreCompileInputs.cache
+D:\SCCSB6\B_Class_Object\a_class_object_method\obj\Debug\net8.0\a_class_object_method.sourcelink.json
+D:\SCCSB6\B_Class_Object\a_class_object_method\obj\Debug\net8.0\a_class_object_method.dll
+D:\SCCSB6\B_Class_Object\a_class_object_method\obj\Debug\net8.0\refint\a_class_object_method.dll
+D:\SCCSB6\B_Class_Object\a_class_object_method\obj\Debug\net8.0\a_class_object_method.pdb
+D:\SCCSB6\B_Class_Object\a_class_object_method\obj\Debug\net8.0\a_class_object_method.genruntimeconfig.cache
+D:\SCCSB6\B_Class_Object\a_class_object_method\obj\Debug\net8.0\ref\a_class_object_method.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "d_add_user_input_nums/1.0.0": {
+        "runtime": {
+          "d_add_user_input_nums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "d_add_user_input_nums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

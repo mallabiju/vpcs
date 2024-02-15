@@ -1,0 +1,15 @@
+D:\SCCSB6\C_Data_Types\d_value_type_byte_signed_int\bin\Debug\net8.0\d_value_type_byte_signed_int.exe
+D:\SCCSB6\C_Data_Types\d_value_type_byte_signed_int\bin\Debug\net8.0\d_value_type_byte_signed_int.deps.json
+D:\SCCSB6\C_Data_Types\d_value_type_byte_signed_int\bin\Debug\net8.0\d_value_type_byte_signed_int.runtimeconfig.json
+D:\SCCSB6\C_Data_Types\d_value_type_byte_signed_int\bin\Debug\net8.0\d_value_type_byte_signed_int.dll
+D:\SCCSB6\C_Data_Types\d_value_type_byte_signed_int\bin\Debug\net8.0\d_value_type_byte_signed_int.pdb
+D:\SCCSB6\C_Data_Types\d_value_type_byte_signed_int\obj\Debug\net8.0\d_value_type_byte_signed_int.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\C_Data_Types\d_value_type_byte_signed_int\obj\Debug\net8.0\d_value_type_byte_signed_int.AssemblyInfoInputs.cache
+D:\SCCSB6\C_Data_Types\d_value_type_byte_signed_int\obj\Debug\net8.0\d_value_type_byte_signed_int.AssemblyInfo.cs
+D:\SCCSB6\C_Data_Types\d_value_type_byte_signed_int\obj\Debug\net8.0\d_value_type_byte_signed_int.csproj.CoreCompileInputs.cache
+D:\SCCSB6\C_Data_Types\d_value_type_byte_signed_int\obj\Debug\net8.0\d_value_type_byte_signed_int.sourcelink.json
+D:\SCCSB6\C_Data_Types\d_value_type_byte_signed_int\obj\Debug\net8.0\d_value_type_byte_signed_int.dll
+D:\SCCSB6\C_Data_Types\d_value_type_byte_signed_int\obj\Debug\net8.0\refint\d_value_type_byte_signed_int.dll
+D:\SCCSB6\C_Data_Types\d_value_type_byte_signed_int\obj\Debug\net8.0\d_value_type_byte_signed_int.pdb
+D:\SCCSB6\C_Data_Types\d_value_type_byte_signed_int\obj\Debug\net8.0\d_value_type_byte_signed_int.genruntimeconfig.cache
+D:\SCCSB6\C_Data_Types\d_value_type_byte_signed_int\obj\Debug\net8.0\ref\d_value_type_byte_signed_int.dll

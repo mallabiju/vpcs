@@ -1,0 +1,15 @@
+D:\SCCSB6\D_Control_Statements\k_foreach_integer_array\bin\Debug\net8.0\k_foreach_integer_array.exe
+D:\SCCSB6\D_Control_Statements\k_foreach_integer_array\bin\Debug\net8.0\k_foreach_integer_array.deps.json
+D:\SCCSB6\D_Control_Statements\k_foreach_integer_array\bin\Debug\net8.0\k_foreach_integer_array.runtimeconfig.json
+D:\SCCSB6\D_Control_Statements\k_foreach_integer_array\bin\Debug\net8.0\k_foreach_integer_array.dll
+D:\SCCSB6\D_Control_Statements\k_foreach_integer_array\bin\Debug\net8.0\k_foreach_integer_array.pdb
+D:\SCCSB6\D_Control_Statements\k_foreach_integer_array\obj\Debug\net8.0\k_foreach_integer_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\D_Control_Statements\k_foreach_integer_array\obj\Debug\net8.0\k_foreach_integer_array.AssemblyInfoInputs.cache
+D:\SCCSB6\D_Control_Statements\k_foreach_integer_array\obj\Debug\net8.0\k_foreach_integer_array.AssemblyInfo.cs
+D:\SCCSB6\D_Control_Statements\k_foreach_integer_array\obj\Debug\net8.0\k_foreach_integer_array.csproj.CoreCompileInputs.cache
+D:\SCCSB6\D_Control_Statements\k_foreach_integer_array\obj\Debug\net8.0\k_foreach_integer_array.sourcelink.json
+D:\SCCSB6\D_Control_Statements\k_foreach_integer_array\obj\Debug\net8.0\k_foreach_integer_array.dll
+D:\SCCSB6\D_Control_Statements\k_foreach_integer_array\obj\Debug\net8.0\refint\k_foreach_integer_array.dll
+D:\SCCSB6\D_Control_Statements\k_foreach_integer_array\obj\Debug\net8.0\k_foreach_integer_array.pdb
+D:\SCCSB6\D_Control_Statements\k_foreach_integer_array\obj\Debug\net8.0\k_foreach_integer_array.genruntimeconfig.cache
+D:\SCCSB6\D_Control_Statements\k_foreach_integer_array\obj\Debug\net8.0\ref\k_foreach_integer_array.dll

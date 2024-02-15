@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "j_foreach_character_array/1.0.0": {
+        "runtime": {
+          "j_foreach_character_array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "j_foreach_character_array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

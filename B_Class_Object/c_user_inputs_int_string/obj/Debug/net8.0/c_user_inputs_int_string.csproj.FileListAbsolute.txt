@@ -1,0 +1,15 @@
+D:\SCCSB6\B_Class_Object\c_user_inputs_int_string\bin\Debug\net8.0\c_user_inputs_int_string.exe
+D:\SCCSB6\B_Class_Object\c_user_inputs_int_string\bin\Debug\net8.0\c_user_inputs_int_string.deps.json
+D:\SCCSB6\B_Class_Object\c_user_inputs_int_string\bin\Debug\net8.0\c_user_inputs_int_string.runtimeconfig.json
+D:\SCCSB6\B_Class_Object\c_user_inputs_int_string\bin\Debug\net8.0\c_user_inputs_int_string.dll
+D:\SCCSB6\B_Class_Object\c_user_inputs_int_string\bin\Debug\net8.0\c_user_inputs_int_string.pdb
+D:\SCCSB6\B_Class_Object\c_user_inputs_int_string\obj\Debug\net8.0\c_user_inputs_int_string.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\B_Class_Object\c_user_inputs_int_string\obj\Debug\net8.0\c_user_inputs_int_string.AssemblyInfoInputs.cache
+D:\SCCSB6\B_Class_Object\c_user_inputs_int_string\obj\Debug\net8.0\c_user_inputs_int_string.AssemblyInfo.cs
+D:\SCCSB6\B_Class_Object\c_user_inputs_int_string\obj\Debug\net8.0\c_user_inputs_int_string.csproj.CoreCompileInputs.cache
+D:\SCCSB6\B_Class_Object\c_user_inputs_int_string\obj\Debug\net8.0\c_user_inputs_int_string.sourcelink.json
+D:\SCCSB6\B_Class_Object\c_user_inputs_int_string\obj\Debug\net8.0\c_user_inputs_int_string.dll
+D:\SCCSB6\B_Class_Object\c_user_inputs_int_string\obj\Debug\net8.0\refint\c_user_inputs_int_string.dll
+D:\SCCSB6\B_Class_Object\c_user_inputs_int_string\obj\Debug\net8.0\c_user_inputs_int_string.pdb
+D:\SCCSB6\B_Class_Object\c_user_inputs_int_string\obj\Debug\net8.0\c_user_inputs_int_string.genruntimeconfig.cache
+D:\SCCSB6\B_Class_Object\c_user_inputs_int_string\obj\Debug\net8.0\ref\c_user_inputs_int_string.dll

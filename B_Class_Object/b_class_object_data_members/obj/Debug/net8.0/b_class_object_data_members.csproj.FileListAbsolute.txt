@@ -1,0 +1,15 @@
+D:\SCCSB6\B_Class_Object\b_class_object_data_members\bin\Debug\net8.0\b_class_object_data_members.exe
+D:\SCCSB6\B_Class_Object\b_class_object_data_members\bin\Debug\net8.0\b_class_object_data_members.deps.json
+D:\SCCSB6\B_Class_Object\b_class_object_data_members\bin\Debug\net8.0\b_class_object_data_members.runtimeconfig.json
+D:\SCCSB6\B_Class_Object\b_class_object_data_members\bin\Debug\net8.0\b_class_object_data_members.dll
+D:\SCCSB6\B_Class_Object\b_class_object_data_members\bin\Debug\net8.0\b_class_object_data_members.pdb
+D:\SCCSB6\B_Class_Object\b_class_object_data_members\obj\Debug\net8.0\b_class_object_data_members.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\B_Class_Object\b_class_object_data_members\obj\Debug\net8.0\b_class_object_data_members.AssemblyInfoInputs.cache
+D:\SCCSB6\B_Class_Object\b_class_object_data_members\obj\Debug\net8.0\b_class_object_data_members.AssemblyInfo.cs
+D:\SCCSB6\B_Class_Object\b_class_object_data_members\obj\Debug\net8.0\b_class_object_data_members.csproj.CoreCompileInputs.cache
+D:\SCCSB6\B_Class_Object\b_class_object_data_members\obj\Debug\net8.0\b_class_object_data_members.sourcelink.json
+D:\SCCSB6\B_Class_Object\b_class_object_data_members\obj\Debug\net8.0\b_class_object_data_members.dll
+D:\SCCSB6\B_Class_Object\b_class_object_data_members\obj\Debug\net8.0\refint\b_class_object_data_members.dll
+D:\SCCSB6\B_Class_Object\b_class_object_data_members\obj\Debug\net8.0\b_class_object_data_members.pdb
+D:\SCCSB6\B_Class_Object\b_class_object_data_members\obj\Debug\net8.0\b_class_object_data_members.genruntimeconfig.cache
+D:\SCCSB6\B_Class_Object\b_class_object_data_members\obj\Debug\net8.0\ref\b_class_object_data_members.dll

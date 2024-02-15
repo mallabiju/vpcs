@@ -26,3 +26,4 @@ D:\SCCSB6\A_Basic_IO\c_add_two_nums\obj\Debug\net8.0\refint\c_add_two_nums.dll
 D:\SCCSB6\A_Basic_IO\c_add_two_nums\obj\Debug\net8.0\c_add_two_nums.pdb
 D:\SCCSB6\A_Basic_IO\c_add_two_nums\obj\Debug\net8.0\c_add_two_nums.genruntimeconfig.cache
 D:\SCCSB6\A_Basic_IO\c_add_two_nums\obj\Debug\net8.0\ref\c_add_two_nums.dll
+D:\SCCSB6\A_Basic_IO\c_add_two_nums\obj\Debug\net8.0\c_add_two_nums.sourcelink.json
