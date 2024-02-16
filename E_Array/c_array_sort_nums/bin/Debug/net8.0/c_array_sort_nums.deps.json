@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "c_array_sort_nums/1.0.0": {
+        "runtime": {
+          "c_array_sort_nums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "c_array_sort_nums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

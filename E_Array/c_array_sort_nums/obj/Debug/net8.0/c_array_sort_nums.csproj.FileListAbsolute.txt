@@ -1,0 +1,15 @@
+D:\SCCSB6\E_Array\c_array_sort_nums\obj\Debug\net8.0\c_array_sort_nums.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\E_Array\c_array_sort_nums\obj\Debug\net8.0\c_array_sort_nums.AssemblyInfoInputs.cache
+D:\SCCSB6\E_Array\c_array_sort_nums\obj\Debug\net8.0\c_array_sort_nums.AssemblyInfo.cs
+D:\SCCSB6\E_Array\c_array_sort_nums\obj\Debug\net8.0\c_array_sort_nums.csproj.CoreCompileInputs.cache
+D:\SCCSB6\E_Array\c_array_sort_nums\obj\Debug\net8.0\c_array_sort_nums.sourcelink.json
+D:\SCCSB6\E_Array\c_array_sort_nums\bin\Debug\net8.0\c_array_sort_nums.exe
+D:\SCCSB6\E_Array\c_array_sort_nums\bin\Debug\net8.0\c_array_sort_nums.deps.json
+D:\SCCSB6\E_Array\c_array_sort_nums\bin\Debug\net8.0\c_array_sort_nums.runtimeconfig.json
+D:\SCCSB6\E_Array\c_array_sort_nums\bin\Debug\net8.0\c_array_sort_nums.dll
+D:\SCCSB6\E_Array\c_array_sort_nums\bin\Debug\net8.0\c_array_sort_nums.pdb
+D:\SCCSB6\E_Array\c_array_sort_nums\obj\Debug\net8.0\c_array_sort_nums.dll
+D:\SCCSB6\E_Array\c_array_sort_nums\obj\Debug\net8.0\refint\c_array_sort_nums.dll
+D:\SCCSB6\E_Array\c_array_sort_nums\obj\Debug\net8.0\c_array_sort_nums.pdb
+D:\SCCSB6\E_Array\c_array_sort_nums\obj\Debug\net8.0\c_array_sort_nums.genruntimeconfig.cache
+D:\SCCSB6\E_Array\c_array_sort_nums\obj\Debug\net8.0\ref\c_array_sort_nums.dll
