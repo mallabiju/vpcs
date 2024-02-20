@@ -1,0 +1,7 @@
+# Ignore bin and obj directories for compiled code
+bin/
+obj/
+
+# Ignore Visual Studio and Visual Studio Code directories
+.vs/
+.vscode/
