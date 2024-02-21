@@ -1,0 +1,15 @@
+D:\SCCSB6\G_Constructor_Destructor\a_constructor\bin\Debug\net8.0\a_constructor.exe
+D:\SCCSB6\G_Constructor_Destructor\a_constructor\bin\Debug\net8.0\a_constructor.deps.json
+D:\SCCSB6\G_Constructor_Destructor\a_constructor\bin\Debug\net8.0\a_constructor.runtimeconfig.json
+D:\SCCSB6\G_Constructor_Destructor\a_constructor\bin\Debug\net8.0\a_constructor.dll
+D:\SCCSB6\G_Constructor_Destructor\a_constructor\bin\Debug\net8.0\a_constructor.pdb
+D:\SCCSB6\G_Constructor_Destructor\a_constructor\obj\Debug\net8.0\a_constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\G_Constructor_Destructor\a_constructor\obj\Debug\net8.0\a_constructor.AssemblyInfoInputs.cache
+D:\SCCSB6\G_Constructor_Destructor\a_constructor\obj\Debug\net8.0\a_constructor.AssemblyInfo.cs
+D:\SCCSB6\G_Constructor_Destructor\a_constructor\obj\Debug\net8.0\a_constructor.csproj.CoreCompileInputs.cache
+D:\SCCSB6\G_Constructor_Destructor\a_constructor\obj\Debug\net8.0\a_constructor.sourcelink.json
+D:\SCCSB6\G_Constructor_Destructor\a_constructor\obj\Debug\net8.0\a_constructor.dll
+D:\SCCSB6\G_Constructor_Destructor\a_constructor\obj\Debug\net8.0\refint\a_constructor.dll
+D:\SCCSB6\G_Constructor_Destructor\a_constructor\obj\Debug\net8.0\a_constructor.pdb
+D:\SCCSB6\G_Constructor_Destructor\a_constructor\obj\Debug\net8.0\a_constructor.genruntimeconfig.cache
+D:\SCCSB6\G_Constructor_Destructor\a_constructor\obj\Debug\net8.0\ref\a_constructor.dll
