@@ -10,5 +10,6 @@ class Program
         Console.WriteLine(a);
         Console.WriteLine(b);
         Console.WriteLine(c);
+        // We can only assign the value of smaller data type to the larger data type.
     }
 }

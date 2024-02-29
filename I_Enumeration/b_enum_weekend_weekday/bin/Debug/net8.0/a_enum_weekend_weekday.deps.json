@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "a_enum_weekend_weekday/1.0.0": {
+        "runtime": {
+          "a_enum_weekend_weekday.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "a_enum_weekend_weekday/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\SCCSB6\E_Array\h_array_two_dimensional\bin\Debug\net8.0\h_array_two_dimensional.exe
+D:\SCCSB6\E_Array\h_array_two_dimensional\bin\Debug\net8.0\h_array_two_dimensional.deps.json
+D:\SCCSB6\E_Array\h_array_two_dimensional\bin\Debug\net8.0\h_array_two_dimensional.runtimeconfig.json
+D:\SCCSB6\E_Array\h_array_two_dimensional\bin\Debug\net8.0\h_array_two_dimensional.dll
+D:\SCCSB6\E_Array\h_array_two_dimensional\bin\Debug\net8.0\h_array_two_dimensional.pdb
+D:\SCCSB6\E_Array\h_array_two_dimensional\obj\Debug\net8.0\h_array_two_dimensional.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\E_Array\h_array_two_dimensional\obj\Debug\net8.0\h_array_two_dimensional.AssemblyInfoInputs.cache
+D:\SCCSB6\E_Array\h_array_two_dimensional\obj\Debug\net8.0\h_array_two_dimensional.AssemblyInfo.cs
+D:\SCCSB6\E_Array\h_array_two_dimensional\obj\Debug\net8.0\h_array_two_dimensional.csproj.CoreCompileInputs.cache
+D:\SCCSB6\E_Array\h_array_two_dimensional\obj\Debug\net8.0\h_array_two_dimensional.sourcelink.json
+D:\SCCSB6\E_Array\h_array_two_dimensional\obj\Debug\net8.0\h_array_two_dimensional.dll
+D:\SCCSB6\E_Array\h_array_two_dimensional\obj\Debug\net8.0\refint\h_array_two_dimensional.dll
+D:\SCCSB6\E_Array\h_array_two_dimensional\obj\Debug\net8.0\h_array_two_dimensional.pdb
+D:\SCCSB6\E_Array\h_array_two_dimensional\obj\Debug\net8.0\h_array_two_dimensional.genruntimeconfig.cache
+D:\SCCSB6\E_Array\h_array_two_dimensional\obj\Debug\net8.0\ref\h_array_two_dimensional.dll

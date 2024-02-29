@@ -1,0 +1,15 @@
+D:\SCCSB6\E_Array\g_array_search_a_num\bin\Debug\net8.0\g_array_search_a_num.exe
+D:\SCCSB6\E_Array\g_array_search_a_num\bin\Debug\net8.0\g_array_search_a_num.deps.json
+D:\SCCSB6\E_Array\g_array_search_a_num\bin\Debug\net8.0\g_array_search_a_num.runtimeconfig.json
+D:\SCCSB6\E_Array\g_array_search_a_num\bin\Debug\net8.0\g_array_search_a_num.dll
+D:\SCCSB6\E_Array\g_array_search_a_num\bin\Debug\net8.0\g_array_search_a_num.pdb
+D:\SCCSB6\E_Array\g_array_search_a_num\obj\Debug\net8.0\g_array_search_a_num.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\E_Array\g_array_search_a_num\obj\Debug\net8.0\g_array_search_a_num.AssemblyInfoInputs.cache
+D:\SCCSB6\E_Array\g_array_search_a_num\obj\Debug\net8.0\g_array_search_a_num.AssemblyInfo.cs
+D:\SCCSB6\E_Array\g_array_search_a_num\obj\Debug\net8.0\g_array_search_a_num.csproj.CoreCompileInputs.cache
+D:\SCCSB6\E_Array\g_array_search_a_num\obj\Debug\net8.0\g_array_search_a_num.sourcelink.json
+D:\SCCSB6\E_Array\g_array_search_a_num\obj\Debug\net8.0\g_array_search_a_num.dll
+D:\SCCSB6\E_Array\g_array_search_a_num\obj\Debug\net8.0\refint\g_array_search_a_num.dll
+D:\SCCSB6\E_Array\g_array_search_a_num\obj\Debug\net8.0\g_array_search_a_num.pdb
+D:\SCCSB6\E_Array\g_array_search_a_num\obj\Debug\net8.0\g_array_search_a_num.genruntimeconfig.cache
+D:\SCCSB6\E_Array\g_array_search_a_num\obj\Debug\net8.0\ref\g_array_search_a_num.dll

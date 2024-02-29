@@ -8,6 +8,7 @@ class Program
         foreach (var item in myarray)
         {
             Console.WriteLine(item);
+            // Console.Write("\t {0}", item);
         }
     }
 }

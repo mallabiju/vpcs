@@ -8,6 +8,13 @@ class Program
         int b = Convert.ToInt32(a);
         int c = 567;
         int sum = b + c;
+        Console.WriteLine(a); // prints string value
+        Console.WriteLine(b); // prints integer value
         Console.WriteLine(sum);
     }
 }
+/* Convert Classes
+ToByte()
+TyInt16() = > short
+TyInt32() = > int
+TyInt64() = > long */

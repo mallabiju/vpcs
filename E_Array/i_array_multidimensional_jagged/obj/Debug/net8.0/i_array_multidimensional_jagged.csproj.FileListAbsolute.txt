@@ -1,0 +1,15 @@
+D:\SCCSB6\E_Array\i_array_multidimensional_jagged\bin\Debug\net8.0\i_array_multidimensional_jagged.exe
+D:\SCCSB6\E_Array\i_array_multidimensional_jagged\bin\Debug\net8.0\i_array_multidimensional_jagged.deps.json
+D:\SCCSB6\E_Array\i_array_multidimensional_jagged\bin\Debug\net8.0\i_array_multidimensional_jagged.runtimeconfig.json
+D:\SCCSB6\E_Array\i_array_multidimensional_jagged\bin\Debug\net8.0\i_array_multidimensional_jagged.dll
+D:\SCCSB6\E_Array\i_array_multidimensional_jagged\bin\Debug\net8.0\i_array_multidimensional_jagged.pdb
+D:\SCCSB6\E_Array\i_array_multidimensional_jagged\obj\Debug\net8.0\i_array_multidimensional_jagged.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\E_Array\i_array_multidimensional_jagged\obj\Debug\net8.0\i_array_multidimensional_jagged.AssemblyInfoInputs.cache
+D:\SCCSB6\E_Array\i_array_multidimensional_jagged\obj\Debug\net8.0\i_array_multidimensional_jagged.AssemblyInfo.cs
+D:\SCCSB6\E_Array\i_array_multidimensional_jagged\obj\Debug\net8.0\i_array_multidimensional_jagged.csproj.CoreCompileInputs.cache
+D:\SCCSB6\E_Array\i_array_multidimensional_jagged\obj\Debug\net8.0\i_array_multidimensional_jagged.sourcelink.json
+D:\SCCSB6\E_Array\i_array_multidimensional_jagged\obj\Debug\net8.0\i_array_multidimensional_jagged.dll
+D:\SCCSB6\E_Array\i_array_multidimensional_jagged\obj\Debug\net8.0\refint\i_array_multidimensional_jagged.dll
+D:\SCCSB6\E_Array\i_array_multidimensional_jagged\obj\Debug\net8.0\i_array_multidimensional_jagged.pdb
+D:\SCCSB6\E_Array\i_array_multidimensional_jagged\obj\Debug\net8.0\i_array_multidimensional_jagged.genruntimeconfig.cache
+D:\SCCSB6\E_Array\i_array_multidimensional_jagged\obj\Debug\net8.0\ref\i_array_multidimensional_jagged.dll
