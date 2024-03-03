@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("f_concat_user_input_strings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e33b5b208cfe71c9c8db43c2f181e05ebbe066e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42c43b21e3fef8b3fa338a77ef2d730e4303dd1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("f_concat_user_input_strings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("f_concat_user_input_strings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

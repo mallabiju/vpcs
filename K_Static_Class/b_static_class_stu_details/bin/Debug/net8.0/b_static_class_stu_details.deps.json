@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "b_static_class_stu_details/1.0.0": {
+        "runtime": {
+          "b_static_class_stu_details.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "b_static_class_stu_details/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
