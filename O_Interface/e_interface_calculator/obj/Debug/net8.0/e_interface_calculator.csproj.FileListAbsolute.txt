@@ -1,0 +1,15 @@
+D:\SCCSB6\O_Interface\e_interface_calculator\obj\Debug\net8.0\e_interface_calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\O_Interface\e_interface_calculator\obj\Debug\net8.0\e_interface_calculator.AssemblyInfoInputs.cache
+D:\SCCSB6\O_Interface\e_interface_calculator\obj\Debug\net8.0\e_interface_calculator.AssemblyInfo.cs
+D:\SCCSB6\O_Interface\e_interface_calculator\obj\Debug\net8.0\e_interface_calculator.csproj.CoreCompileInputs.cache
+D:\SCCSB6\O_Interface\e_interface_calculator\obj\Debug\net8.0\e_interface_calculator.sourcelink.json
+D:\SCCSB6\O_Interface\e_interface_calculator\bin\Debug\net8.0\e_interface_calculator.exe
+D:\SCCSB6\O_Interface\e_interface_calculator\bin\Debug\net8.0\e_interface_calculator.deps.json
+D:\SCCSB6\O_Interface\e_interface_calculator\bin\Debug\net8.0\e_interface_calculator.runtimeconfig.json
+D:\SCCSB6\O_Interface\e_interface_calculator\bin\Debug\net8.0\e_interface_calculator.dll
+D:\SCCSB6\O_Interface\e_interface_calculator\bin\Debug\net8.0\e_interface_calculator.pdb
+D:\SCCSB6\O_Interface\e_interface_calculator\obj\Debug\net8.0\e_interface_calculator.dll
+D:\SCCSB6\O_Interface\e_interface_calculator\obj\Debug\net8.0\refint\e_interface_calculator.dll
+D:\SCCSB6\O_Interface\e_interface_calculator\obj\Debug\net8.0\e_interface_calculator.pdb
+D:\SCCSB6\O_Interface\e_interface_calculator\obj\Debug\net8.0\e_interface_calculator.genruntimeconfig.cache
+D:\SCCSB6\O_Interface\e_interface_calculator\obj\Debug\net8.0\ref\e_interface_calculator.dll
