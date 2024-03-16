@@ -1,0 +1,15 @@
+D:\SCCSB6\Q_Abstract\f_abstract\bin\Debug\net8.0\f_abstract.exe
+D:\SCCSB6\Q_Abstract\f_abstract\bin\Debug\net8.0\f_abstract.deps.json
+D:\SCCSB6\Q_Abstract\f_abstract\bin\Debug\net8.0\f_abstract.runtimeconfig.json
+D:\SCCSB6\Q_Abstract\f_abstract\bin\Debug\net8.0\f_abstract.dll
+D:\SCCSB6\Q_Abstract\f_abstract\bin\Debug\net8.0\f_abstract.pdb
+D:\SCCSB6\Q_Abstract\f_abstract\obj\Debug\net8.0\f_abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\Q_Abstract\f_abstract\obj\Debug\net8.0\f_abstract.AssemblyInfoInputs.cache
+D:\SCCSB6\Q_Abstract\f_abstract\obj\Debug\net8.0\f_abstract.AssemblyInfo.cs
+D:\SCCSB6\Q_Abstract\f_abstract\obj\Debug\net8.0\f_abstract.csproj.CoreCompileInputs.cache
+D:\SCCSB6\Q_Abstract\f_abstract\obj\Debug\net8.0\f_abstract.sourcelink.json
+D:\SCCSB6\Q_Abstract\f_abstract\obj\Debug\net8.0\f_abstract.dll
+D:\SCCSB6\Q_Abstract\f_abstract\obj\Debug\net8.0\refint\f_abstract.dll
+D:\SCCSB6\Q_Abstract\f_abstract\obj\Debug\net8.0\f_abstract.pdb
+D:\SCCSB6\Q_Abstract\f_abstract\obj\Debug\net8.0\f_abstract.genruntimeconfig.cache
+D:\SCCSB6\Q_Abstract\f_abstract\obj\Debug\net8.0\ref\f_abstract.dll
