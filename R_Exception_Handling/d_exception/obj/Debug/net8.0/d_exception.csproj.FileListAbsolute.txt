@@ -1,0 +1,15 @@
+D:\SCCSB6\R_Exception_Handling\d_exception\obj\Debug\net8.0\d_exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\R_Exception_Handling\d_exception\obj\Debug\net8.0\d_exception.AssemblyInfoInputs.cache
+D:\SCCSB6\R_Exception_Handling\d_exception\obj\Debug\net8.0\d_exception.AssemblyInfo.cs
+D:\SCCSB6\R_Exception_Handling\d_exception\obj\Debug\net8.0\d_exception.csproj.CoreCompileInputs.cache
+D:\SCCSB6\R_Exception_Handling\d_exception\obj\Debug\net8.0\d_exception.sourcelink.json
+D:\SCCSB6\R_Exception_Handling\d_exception\bin\Debug\net8.0\d_exception.exe
+D:\SCCSB6\R_Exception_Handling\d_exception\bin\Debug\net8.0\d_exception.deps.json
+D:\SCCSB6\R_Exception_Handling\d_exception\bin\Debug\net8.0\d_exception.runtimeconfig.json
+D:\SCCSB6\R_Exception_Handling\d_exception\bin\Debug\net8.0\d_exception.dll
+D:\SCCSB6\R_Exception_Handling\d_exception\bin\Debug\net8.0\d_exception.pdb
+D:\SCCSB6\R_Exception_Handling\d_exception\obj\Debug\net8.0\d_exception.dll
+D:\SCCSB6\R_Exception_Handling\d_exception\obj\Debug\net8.0\refint\d_exception.dll
+D:\SCCSB6\R_Exception_Handling\d_exception\obj\Debug\net8.0\d_exception.pdb
+D:\SCCSB6\R_Exception_Handling\d_exception\obj\Debug\net8.0\d_exception.genruntimeconfig.cache
+D:\SCCSB6\R_Exception_Handling\d_exception\obj\Debug\net8.0\ref\d_exception.dll
