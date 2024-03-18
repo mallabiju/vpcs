@@ -1,0 +1,15 @@
+D:\SCCSB6\R_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net8.0\g_exception_user_defined_throw.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\R_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net8.0\g_exception_user_defined_throw.AssemblyInfoInputs.cache
+D:\SCCSB6\R_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net8.0\g_exception_user_defined_throw.AssemblyInfo.cs
+D:\SCCSB6\R_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net8.0\g_exception_user_defined_throw.csproj.CoreCompileInputs.cache
+D:\SCCSB6\R_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net8.0\g_exception_user_defined_throw.sourcelink.json
+D:\SCCSB6\R_Exception_Handling\g_exception_user_defined_throw\bin\Debug\net8.0\g_exception_user_defined_throw.exe
+D:\SCCSB6\R_Exception_Handling\g_exception_user_defined_throw\bin\Debug\net8.0\g_exception_user_defined_throw.deps.json
+D:\SCCSB6\R_Exception_Handling\g_exception_user_defined_throw\bin\Debug\net8.0\g_exception_user_defined_throw.runtimeconfig.json
+D:\SCCSB6\R_Exception_Handling\g_exception_user_defined_throw\bin\Debug\net8.0\g_exception_user_defined_throw.dll
+D:\SCCSB6\R_Exception_Handling\g_exception_user_defined_throw\bin\Debug\net8.0\g_exception_user_defined_throw.pdb
+D:\SCCSB6\R_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net8.0\g_exception_user_defined_throw.dll
+D:\SCCSB6\R_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net8.0\refint\g_exception_user_defined_throw.dll
+D:\SCCSB6\R_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net8.0\g_exception_user_defined_throw.pdb
+D:\SCCSB6\R_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net8.0\g_exception_user_defined_throw.genruntimeconfig.cache
+D:\SCCSB6\R_Exception_Handling\g_exception_user_defined_throw\obj\Debug\net8.0\ref\g_exception_user_defined_throw.dll

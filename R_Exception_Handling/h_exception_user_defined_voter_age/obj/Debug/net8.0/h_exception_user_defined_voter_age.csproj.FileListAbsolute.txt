@@ -1,0 +1,15 @@
+D:\SCCSB6\R_Exception_Handling\h_exception_user_defined_voter_age\bin\Debug\net8.0\h_exception_user_defined_voter_age.exe
+D:\SCCSB6\R_Exception_Handling\h_exception_user_defined_voter_age\bin\Debug\net8.0\h_exception_user_defined_voter_age.deps.json
+D:\SCCSB6\R_Exception_Handling\h_exception_user_defined_voter_age\bin\Debug\net8.0\h_exception_user_defined_voter_age.runtimeconfig.json
+D:\SCCSB6\R_Exception_Handling\h_exception_user_defined_voter_age\bin\Debug\net8.0\h_exception_user_defined_voter_age.dll
+D:\SCCSB6\R_Exception_Handling\h_exception_user_defined_voter_age\bin\Debug\net8.0\h_exception_user_defined_voter_age.pdb
+D:\SCCSB6\R_Exception_Handling\h_exception_user_defined_voter_age\obj\Debug\net8.0\h_exception_user_defined_voter_age.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\R_Exception_Handling\h_exception_user_defined_voter_age\obj\Debug\net8.0\h_exception_user_defined_voter_age.AssemblyInfoInputs.cache
+D:\SCCSB6\R_Exception_Handling\h_exception_user_defined_voter_age\obj\Debug\net8.0\h_exception_user_defined_voter_age.AssemblyInfo.cs
+D:\SCCSB6\R_Exception_Handling\h_exception_user_defined_voter_age\obj\Debug\net8.0\h_exception_user_defined_voter_age.csproj.CoreCompileInputs.cache
+D:\SCCSB6\R_Exception_Handling\h_exception_user_defined_voter_age\obj\Debug\net8.0\h_exception_user_defined_voter_age.sourcelink.json
+D:\SCCSB6\R_Exception_Handling\h_exception_user_defined_voter_age\obj\Debug\net8.0\h_exception_user_defined_voter_age.dll
+D:\SCCSB6\R_Exception_Handling\h_exception_user_defined_voter_age\obj\Debug\net8.0\refint\h_exception_user_defined_voter_age.dll
+D:\SCCSB6\R_Exception_Handling\h_exception_user_defined_voter_age\obj\Debug\net8.0\h_exception_user_defined_voter_age.pdb
+D:\SCCSB6\R_Exception_Handling\h_exception_user_defined_voter_age\obj\Debug\net8.0\h_exception_user_defined_voter_age.genruntimeconfig.cache
+D:\SCCSB6\R_Exception_Handling\h_exception_user_defined_voter_age\obj\Debug\net8.0\ref\h_exception_user_defined_voter_age.dll
