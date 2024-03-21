@@ -1,0 +1,15 @@
+D:\SCCSB6\S_Delegates\d_delegate_singlecast\bin\Debug\net8.0\d_delegate_singlecast.exe
+D:\SCCSB6\S_Delegates\d_delegate_singlecast\bin\Debug\net8.0\d_delegate_singlecast.deps.json
+D:\SCCSB6\S_Delegates\d_delegate_singlecast\bin\Debug\net8.0\d_delegate_singlecast.runtimeconfig.json
+D:\SCCSB6\S_Delegates\d_delegate_singlecast\bin\Debug\net8.0\d_delegate_singlecast.dll
+D:\SCCSB6\S_Delegates\d_delegate_singlecast\bin\Debug\net8.0\d_delegate_singlecast.pdb
+D:\SCCSB6\S_Delegates\d_delegate_singlecast\obj\Debug\net8.0\d_delegate_singlecast.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\S_Delegates\d_delegate_singlecast\obj\Debug\net8.0\d_delegate_singlecast.AssemblyInfoInputs.cache
+D:\SCCSB6\S_Delegates\d_delegate_singlecast\obj\Debug\net8.0\d_delegate_singlecast.AssemblyInfo.cs
+D:\SCCSB6\S_Delegates\d_delegate_singlecast\obj\Debug\net8.0\d_delegate_singlecast.csproj.CoreCompileInputs.cache
+D:\SCCSB6\S_Delegates\d_delegate_singlecast\obj\Debug\net8.0\d_delegate_singlecast.sourcelink.json
+D:\SCCSB6\S_Delegates\d_delegate_singlecast\obj\Debug\net8.0\d_delegate_singlecast.dll
+D:\SCCSB6\S_Delegates\d_delegate_singlecast\obj\Debug\net8.0\refint\d_delegate_singlecast.dll
+D:\SCCSB6\S_Delegates\d_delegate_singlecast\obj\Debug\net8.0\d_delegate_singlecast.pdb
+D:\SCCSB6\S_Delegates\d_delegate_singlecast\obj\Debug\net8.0\d_delegate_singlecast.genruntimeconfig.cache
+D:\SCCSB6\S_Delegates\d_delegate_singlecast\obj\Debug\net8.0\ref\d_delegate_singlecast.dll
