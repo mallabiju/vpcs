@@ -1,0 +1,15 @@
+D:\SCCSB6\T_Lambda\d_lambda\bin\Debug\net8.0\d_lambda.exe
+D:\SCCSB6\T_Lambda\d_lambda\bin\Debug\net8.0\d_lambda.deps.json
+D:\SCCSB6\T_Lambda\d_lambda\bin\Debug\net8.0\d_lambda.runtimeconfig.json
+D:\SCCSB6\T_Lambda\d_lambda\bin\Debug\net8.0\d_lambda.dll
+D:\SCCSB6\T_Lambda\d_lambda\bin\Debug\net8.0\d_lambda.pdb
+D:\SCCSB6\T_Lambda\d_lambda\obj\Debug\net8.0\d_lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\T_Lambda\d_lambda\obj\Debug\net8.0\d_lambda.AssemblyInfoInputs.cache
+D:\SCCSB6\T_Lambda\d_lambda\obj\Debug\net8.0\d_lambda.AssemblyInfo.cs
+D:\SCCSB6\T_Lambda\d_lambda\obj\Debug\net8.0\d_lambda.csproj.CoreCompileInputs.cache
+D:\SCCSB6\T_Lambda\d_lambda\obj\Debug\net8.0\d_lambda.sourcelink.json
+D:\SCCSB6\T_Lambda\d_lambda\obj\Debug\net8.0\d_lambda.dll
+D:\SCCSB6\T_Lambda\d_lambda\obj\Debug\net8.0\refint\d_lambda.dll
+D:\SCCSB6\T_Lambda\d_lambda\obj\Debug\net8.0\d_lambda.pdb
+D:\SCCSB6\T_Lambda\d_lambda\obj\Debug\net8.0\d_lambda.genruntimeconfig.cache
+D:\SCCSB6\T_Lambda\d_lambda\obj\Debug\net8.0\ref\d_lambda.dll
