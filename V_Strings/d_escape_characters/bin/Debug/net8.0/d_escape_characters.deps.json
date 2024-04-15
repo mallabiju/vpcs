@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "d_escape_characters/1.0.0": {
+        "runtime": {
+          "d_escape_characters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "d_escape_characters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\SCCSB6\V_Strings\b_char_array\obj\Debug\net8.0\b_char_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\V_Strings\b_char_array\obj\Debug\net8.0\b_char_array.AssemblyInfoInputs.cache
+D:\SCCSB6\V_Strings\b_char_array\obj\Debug\net8.0\b_char_array.AssemblyInfo.cs
+D:\SCCSB6\V_Strings\b_char_array\obj\Debug\net8.0\b_char_array.csproj.CoreCompileInputs.cache
+D:\SCCSB6\V_Strings\b_char_array\obj\Debug\net8.0\b_char_array.sourcelink.json
+D:\SCCSB6\V_Strings\b_char_array\bin\Debug\net8.0\b_char_array.exe
+D:\SCCSB6\V_Strings\b_char_array\bin\Debug\net8.0\b_char_array.deps.json
+D:\SCCSB6\V_Strings\b_char_array\bin\Debug\net8.0\b_char_array.runtimeconfig.json
+D:\SCCSB6\V_Strings\b_char_array\bin\Debug\net8.0\b_char_array.dll
+D:\SCCSB6\V_Strings\b_char_array\bin\Debug\net8.0\b_char_array.pdb
+D:\SCCSB6\V_Strings\b_char_array\obj\Debug\net8.0\b_char_array.dll
+D:\SCCSB6\V_Strings\b_char_array\obj\Debug\net8.0\refint\b_char_array.dll
+D:\SCCSB6\V_Strings\b_char_array\obj\Debug\net8.0\b_char_array.pdb
+D:\SCCSB6\V_Strings\b_char_array\obj\Debug\net8.0\b_char_array.genruntimeconfig.cache
+D:\SCCSB6\V_Strings\b_char_array\obj\Debug\net8.0\ref\b_char_array.dll

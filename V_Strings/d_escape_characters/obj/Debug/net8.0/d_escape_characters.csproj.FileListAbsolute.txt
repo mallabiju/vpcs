@@ -1,0 +1,15 @@
+D:\SCCSB6\V_Strings\d_escape_characters\bin\Debug\net8.0\d_escape_characters.exe
+D:\SCCSB6\V_Strings\d_escape_characters\bin\Debug\net8.0\d_escape_characters.deps.json
+D:\SCCSB6\V_Strings\d_escape_characters\bin\Debug\net8.0\d_escape_characters.runtimeconfig.json
+D:\SCCSB6\V_Strings\d_escape_characters\bin\Debug\net8.0\d_escape_characters.dll
+D:\SCCSB6\V_Strings\d_escape_characters\bin\Debug\net8.0\d_escape_characters.pdb
+D:\SCCSB6\V_Strings\d_escape_characters\obj\Debug\net8.0\d_escape_characters.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\V_Strings\d_escape_characters\obj\Debug\net8.0\d_escape_characters.AssemblyInfoInputs.cache
+D:\SCCSB6\V_Strings\d_escape_characters\obj\Debug\net8.0\d_escape_characters.AssemblyInfo.cs
+D:\SCCSB6\V_Strings\d_escape_characters\obj\Debug\net8.0\d_escape_characters.csproj.CoreCompileInputs.cache
+D:\SCCSB6\V_Strings\d_escape_characters\obj\Debug\net8.0\d_escape_characters.sourcelink.json
+D:\SCCSB6\V_Strings\d_escape_characters\obj\Debug\net8.0\d_escape_characters.dll
+D:\SCCSB6\V_Strings\d_escape_characters\obj\Debug\net8.0\refint\d_escape_characters.dll
+D:\SCCSB6\V_Strings\d_escape_characters\obj\Debug\net8.0\d_escape_characters.pdb
+D:\SCCSB6\V_Strings\d_escape_characters\obj\Debug\net8.0\d_escape_characters.genruntimeconfig.cache
+D:\SCCSB6\V_Strings\d_escape_characters\obj\Debug\net8.0\ref\d_escape_characters.dll
