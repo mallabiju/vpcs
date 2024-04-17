@@ -1,0 +1,15 @@
+D:\SCCSB6\V_Strings\h_string_concatination\bin\Debug\net8.0\h_string_concatination.exe
+D:\SCCSB6\V_Strings\h_string_concatination\bin\Debug\net8.0\h_string_concatination.deps.json
+D:\SCCSB6\V_Strings\h_string_concatination\bin\Debug\net8.0\h_string_concatination.runtimeconfig.json
+D:\SCCSB6\V_Strings\h_string_concatination\bin\Debug\net8.0\h_string_concatination.dll
+D:\SCCSB6\V_Strings\h_string_concatination\bin\Debug\net8.0\h_string_concatination.pdb
+D:\SCCSB6\V_Strings\h_string_concatination\obj\Debug\net8.0\h_string_concatination.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\V_Strings\h_string_concatination\obj\Debug\net8.0\h_string_concatination.AssemblyInfoInputs.cache
+D:\SCCSB6\V_Strings\h_string_concatination\obj\Debug\net8.0\h_string_concatination.AssemblyInfo.cs
+D:\SCCSB6\V_Strings\h_string_concatination\obj\Debug\net8.0\h_string_concatination.csproj.CoreCompileInputs.cache
+D:\SCCSB6\V_Strings\h_string_concatination\obj\Debug\net8.0\h_string_concatination.sourcelink.json
+D:\SCCSB6\V_Strings\h_string_concatination\obj\Debug\net8.0\h_string_concatination.dll
+D:\SCCSB6\V_Strings\h_string_concatination\obj\Debug\net8.0\refint\h_string_concatination.dll
+D:\SCCSB6\V_Strings\h_string_concatination\obj\Debug\net8.0\h_string_concatination.pdb
+D:\SCCSB6\V_Strings\h_string_concatination\obj\Debug\net8.0\h_string_concatination.genruntimeconfig.cache
+D:\SCCSB6\V_Strings\h_string_concatination\obj\Debug\net8.0\ref\h_string_concatination.dll

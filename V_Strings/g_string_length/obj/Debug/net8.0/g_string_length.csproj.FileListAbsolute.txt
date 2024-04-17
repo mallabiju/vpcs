@@ -1,0 +1,15 @@
+D:\SCCSB6\V_Strings\g_string_length\obj\Debug\net8.0\g_string_length.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\V_Strings\g_string_length\obj\Debug\net8.0\g_string_length.AssemblyInfoInputs.cache
+D:\SCCSB6\V_Strings\g_string_length\obj\Debug\net8.0\g_string_length.AssemblyInfo.cs
+D:\SCCSB6\V_Strings\g_string_length\obj\Debug\net8.0\g_string_length.csproj.CoreCompileInputs.cache
+D:\SCCSB6\V_Strings\g_string_length\obj\Debug\net8.0\g_string_length.sourcelink.json
+D:\SCCSB6\V_Strings\g_string_length\bin\Debug\net8.0\g_string_length.exe
+D:\SCCSB6\V_Strings\g_string_length\bin\Debug\net8.0\g_string_length.deps.json
+D:\SCCSB6\V_Strings\g_string_length\bin\Debug\net8.0\g_string_length.runtimeconfig.json
+D:\SCCSB6\V_Strings\g_string_length\bin\Debug\net8.0\g_string_length.dll
+D:\SCCSB6\V_Strings\g_string_length\bin\Debug\net8.0\g_string_length.pdb
+D:\SCCSB6\V_Strings\g_string_length\obj\Debug\net8.0\g_string_length.dll
+D:\SCCSB6\V_Strings\g_string_length\obj\Debug\net8.0\refint\g_string_length.dll
+D:\SCCSB6\V_Strings\g_string_length\obj\Debug\net8.0\g_string_length.pdb
+D:\SCCSB6\V_Strings\g_string_length\obj\Debug\net8.0\g_string_length.genruntimeconfig.cache
+D:\SCCSB6\V_Strings\g_string_length\obj\Debug\net8.0\ref\g_string_length.dll

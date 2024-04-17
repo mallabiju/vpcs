@@ -1,0 +1,15 @@
+D:\SCCSB6\V_Strings\f_string_name_address\obj\Debug\net8.0\f_string_name_address.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\V_Strings\f_string_name_address\obj\Debug\net8.0\f_string_name_address.AssemblyInfoInputs.cache
+D:\SCCSB6\V_Strings\f_string_name_address\obj\Debug\net8.0\f_string_name_address.AssemblyInfo.cs
+D:\SCCSB6\V_Strings\f_string_name_address\obj\Debug\net8.0\f_string_name_address.csproj.CoreCompileInputs.cache
+D:\SCCSB6\V_Strings\f_string_name_address\obj\Debug\net8.0\f_string_name_address.sourcelink.json
+D:\SCCSB6\V_Strings\f_string_name_address\bin\Debug\net8.0\f_string_name_address.exe
+D:\SCCSB6\V_Strings\f_string_name_address\bin\Debug\net8.0\f_string_name_address.deps.json
+D:\SCCSB6\V_Strings\f_string_name_address\bin\Debug\net8.0\f_string_name_address.runtimeconfig.json
+D:\SCCSB6\V_Strings\f_string_name_address\bin\Debug\net8.0\f_string_name_address.dll
+D:\SCCSB6\V_Strings\f_string_name_address\bin\Debug\net8.0\f_string_name_address.pdb
+D:\SCCSB6\V_Strings\f_string_name_address\obj\Debug\net8.0\f_string_name_address.dll
+D:\SCCSB6\V_Strings\f_string_name_address\obj\Debug\net8.0\refint\f_string_name_address.dll
+D:\SCCSB6\V_Strings\f_string_name_address\obj\Debug\net8.0\f_string_name_address.pdb
+D:\SCCSB6\V_Strings\f_string_name_address\obj\Debug\net8.0\f_string_name_address.genruntimeconfig.cache
+D:\SCCSB6\V_Strings\f_string_name_address\obj\Debug\net8.0\ref\f_string_name_address.dll

@@ -13,5 +13,8 @@ class Program
 
         // 3. lets you to print something with double quote
         Console.WriteLine("\"Hello Sanothimi\"");
+
+        // 4. to print path using slash
+        Console.WriteLine("D:\\SCCSB6\\V_Strings\\d_escape_characters\\Program.cs");
     }
 }
