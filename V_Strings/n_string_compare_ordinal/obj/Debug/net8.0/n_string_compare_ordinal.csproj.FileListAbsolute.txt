@@ -1,0 +1,15 @@
+D:\SCCSB6\V_Strings\n_string_compare_ordinal\bin\Debug\net8.0\n_string_compare_ordinal.exe
+D:\SCCSB6\V_Strings\n_string_compare_ordinal\bin\Debug\net8.0\n_string_compare_ordinal.deps.json
+D:\SCCSB6\V_Strings\n_string_compare_ordinal\bin\Debug\net8.0\n_string_compare_ordinal.runtimeconfig.json
+D:\SCCSB6\V_Strings\n_string_compare_ordinal\bin\Debug\net8.0\n_string_compare_ordinal.dll
+D:\SCCSB6\V_Strings\n_string_compare_ordinal\bin\Debug\net8.0\n_string_compare_ordinal.pdb
+D:\SCCSB6\V_Strings\n_string_compare_ordinal\obj\Debug\net8.0\n_string_compare_ordinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\V_Strings\n_string_compare_ordinal\obj\Debug\net8.0\n_string_compare_ordinal.AssemblyInfoInputs.cache
+D:\SCCSB6\V_Strings\n_string_compare_ordinal\obj\Debug\net8.0\n_string_compare_ordinal.AssemblyInfo.cs
+D:\SCCSB6\V_Strings\n_string_compare_ordinal\obj\Debug\net8.0\n_string_compare_ordinal.csproj.CoreCompileInputs.cache
+D:\SCCSB6\V_Strings\n_string_compare_ordinal\obj\Debug\net8.0\n_string_compare_ordinal.sourcelink.json
+D:\SCCSB6\V_Strings\n_string_compare_ordinal\obj\Debug\net8.0\n_string_compare_ordinal.dll
+D:\SCCSB6\V_Strings\n_string_compare_ordinal\obj\Debug\net8.0\refint\n_string_compare_ordinal.dll
+D:\SCCSB6\V_Strings\n_string_compare_ordinal\obj\Debug\net8.0\n_string_compare_ordinal.pdb
+D:\SCCSB6\V_Strings\n_string_compare_ordinal\obj\Debug\net8.0\n_string_compare_ordinal.genruntimeconfig.cache
+D:\SCCSB6\V_Strings\n_string_compare_ordinal\obj\Debug\net8.0\ref\n_string_compare_ordinal.dll

@@ -1,0 +1,15 @@
+D:\SCCSB6\V_Strings\m_string_compare\bin\Debug\net8.0\m_string_compare.exe
+D:\SCCSB6\V_Strings\m_string_compare\bin\Debug\net8.0\m_string_compare.deps.json
+D:\SCCSB6\V_Strings\m_string_compare\bin\Debug\net8.0\m_string_compare.runtimeconfig.json
+D:\SCCSB6\V_Strings\m_string_compare\bin\Debug\net8.0\m_string_compare.dll
+D:\SCCSB6\V_Strings\m_string_compare\bin\Debug\net8.0\m_string_compare.pdb
+D:\SCCSB6\V_Strings\m_string_compare\obj\Debug\net8.0\m_string_compare.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\V_Strings\m_string_compare\obj\Debug\net8.0\m_string_compare.AssemblyInfoInputs.cache
+D:\SCCSB6\V_Strings\m_string_compare\obj\Debug\net8.0\m_string_compare.AssemblyInfo.cs
+D:\SCCSB6\V_Strings\m_string_compare\obj\Debug\net8.0\m_string_compare.csproj.CoreCompileInputs.cache
+D:\SCCSB6\V_Strings\m_string_compare\obj\Debug\net8.0\m_string_compare.sourcelink.json
+D:\SCCSB6\V_Strings\m_string_compare\obj\Debug\net8.0\m_string_compare.dll
+D:\SCCSB6\V_Strings\m_string_compare\obj\Debug\net8.0\refint\m_string_compare.dll
+D:\SCCSB6\V_Strings\m_string_compare\obj\Debug\net8.0\m_string_compare.pdb
+D:\SCCSB6\V_Strings\m_string_compare\obj\Debug\net8.0\m_string_compare.genruntimeconfig.cache
+D:\SCCSB6\V_Strings\m_string_compare\obj\Debug\net8.0\ref\m_string_compare.dll

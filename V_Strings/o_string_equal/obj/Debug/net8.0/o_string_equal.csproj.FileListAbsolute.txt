@@ -1,0 +1,15 @@
+D:\SCCSB6\V_Strings\o_string_equal\bin\Debug\net8.0\o_string_equal.exe
+D:\SCCSB6\V_Strings\o_string_equal\bin\Debug\net8.0\o_string_equal.deps.json
+D:\SCCSB6\V_Strings\o_string_equal\bin\Debug\net8.0\o_string_equal.runtimeconfig.json
+D:\SCCSB6\V_Strings\o_string_equal\bin\Debug\net8.0\o_string_equal.dll
+D:\SCCSB6\V_Strings\o_string_equal\bin\Debug\net8.0\o_string_equal.pdb
+D:\SCCSB6\V_Strings\o_string_equal\obj\Debug\net8.0\o_string_equal.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\V_Strings\o_string_equal\obj\Debug\net8.0\o_string_equal.AssemblyInfoInputs.cache
+D:\SCCSB6\V_Strings\o_string_equal\obj\Debug\net8.0\o_string_equal.AssemblyInfo.cs
+D:\SCCSB6\V_Strings\o_string_equal\obj\Debug\net8.0\o_string_equal.csproj.CoreCompileInputs.cache
+D:\SCCSB6\V_Strings\o_string_equal\obj\Debug\net8.0\o_string_equal.sourcelink.json
+D:\SCCSB6\V_Strings\o_string_equal\obj\Debug\net8.0\o_string_equal.dll
+D:\SCCSB6\V_Strings\o_string_equal\obj\Debug\net8.0\refint\o_string_equal.dll
+D:\SCCSB6\V_Strings\o_string_equal\obj\Debug\net8.0\o_string_equal.pdb
+D:\SCCSB6\V_Strings\o_string_equal\obj\Debug\net8.0\o_string_equal.genruntimeconfig.cache
+D:\SCCSB6\V_Strings\o_string_equal\obj\Debug\net8.0\ref\o_string_equal.dll

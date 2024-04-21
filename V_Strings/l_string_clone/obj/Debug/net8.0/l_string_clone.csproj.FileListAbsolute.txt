@@ -1,0 +1,15 @@
+D:\SCCSB6\V_Strings\l_string_clone\obj\Debug\net8.0\l_string_clone.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\V_Strings\l_string_clone\obj\Debug\net8.0\l_string_clone.AssemblyInfoInputs.cache
+D:\SCCSB6\V_Strings\l_string_clone\obj\Debug\net8.0\l_string_clone.AssemblyInfo.cs
+D:\SCCSB6\V_Strings\l_string_clone\obj\Debug\net8.0\l_string_clone.csproj.CoreCompileInputs.cache
+D:\SCCSB6\V_Strings\l_string_clone\obj\Debug\net8.0\l_string_clone.sourcelink.json
+D:\SCCSB6\V_Strings\l_string_clone\bin\Debug\net8.0\l_string_clone.exe
+D:\SCCSB6\V_Strings\l_string_clone\bin\Debug\net8.0\l_string_clone.deps.json
+D:\SCCSB6\V_Strings\l_string_clone\bin\Debug\net8.0\l_string_clone.runtimeconfig.json
+D:\SCCSB6\V_Strings\l_string_clone\bin\Debug\net8.0\l_string_clone.dll
+D:\SCCSB6\V_Strings\l_string_clone\bin\Debug\net8.0\l_string_clone.pdb
+D:\SCCSB6\V_Strings\l_string_clone\obj\Debug\net8.0\l_string_clone.dll
+D:\SCCSB6\V_Strings\l_string_clone\obj\Debug\net8.0\refint\l_string_clone.dll
+D:\SCCSB6\V_Strings\l_string_clone\obj\Debug\net8.0\l_string_clone.pdb
+D:\SCCSB6\V_Strings\l_string_clone\obj\Debug\net8.0\l_string_clone.genruntimeconfig.cache
+D:\SCCSB6\V_Strings\l_string_clone\obj\Debug\net8.0\ref\l_string_clone.dll

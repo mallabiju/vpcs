@@ -1,0 +1,15 @@
+D:\SCCSB6\V_Strings\j_string_upper\bin\Debug\net8.0\j_string_upper.exe
+D:\SCCSB6\V_Strings\j_string_upper\bin\Debug\net8.0\j_string_upper.deps.json
+D:\SCCSB6\V_Strings\j_string_upper\bin\Debug\net8.0\j_string_upper.runtimeconfig.json
+D:\SCCSB6\V_Strings\j_string_upper\bin\Debug\net8.0\j_string_upper.dll
+D:\SCCSB6\V_Strings\j_string_upper\bin\Debug\net8.0\j_string_upper.pdb
+D:\SCCSB6\V_Strings\j_string_upper\obj\Debug\net8.0\j_string_upper.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\V_Strings\j_string_upper\obj\Debug\net8.0\j_string_upper.AssemblyInfoInputs.cache
+D:\SCCSB6\V_Strings\j_string_upper\obj\Debug\net8.0\j_string_upper.AssemblyInfo.cs
+D:\SCCSB6\V_Strings\j_string_upper\obj\Debug\net8.0\j_string_upper.csproj.CoreCompileInputs.cache
+D:\SCCSB6\V_Strings\j_string_upper\obj\Debug\net8.0\j_string_upper.sourcelink.json
+D:\SCCSB6\V_Strings\j_string_upper\obj\Debug\net8.0\j_string_upper.dll
+D:\SCCSB6\V_Strings\j_string_upper\obj\Debug\net8.0\refint\j_string_upper.dll
+D:\SCCSB6\V_Strings\j_string_upper\obj\Debug\net8.0\j_string_upper.pdb
+D:\SCCSB6\V_Strings\j_string_upper\obj\Debug\net8.0\j_string_upper.genruntimeconfig.cache
+D:\SCCSB6\V_Strings\j_string_upper\obj\Debug\net8.0\ref\j_string_upper.dll

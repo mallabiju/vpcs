@@ -1,0 +1,15 @@
+D:\SCCSB6\V_Strings\q_string_trim\bin\Debug\net8.0\q_string_trim.exe
+D:\SCCSB6\V_Strings\q_string_trim\bin\Debug\net8.0\q_string_trim.deps.json
+D:\SCCSB6\V_Strings\q_string_trim\bin\Debug\net8.0\q_string_trim.runtimeconfig.json
+D:\SCCSB6\V_Strings\q_string_trim\bin\Debug\net8.0\q_string_trim.dll
+D:\SCCSB6\V_Strings\q_string_trim\bin\Debug\net8.0\q_string_trim.pdb
+D:\SCCSB6\V_Strings\q_string_trim\obj\Debug\net8.0\q_string_trim.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\V_Strings\q_string_trim\obj\Debug\net8.0\q_string_trim.AssemblyInfoInputs.cache
+D:\SCCSB6\V_Strings\q_string_trim\obj\Debug\net8.0\q_string_trim.AssemblyInfo.cs
+D:\SCCSB6\V_Strings\q_string_trim\obj\Debug\net8.0\q_string_trim.csproj.CoreCompileInputs.cache
+D:\SCCSB6\V_Strings\q_string_trim\obj\Debug\net8.0\q_string_trim.sourcelink.json
+D:\SCCSB6\V_Strings\q_string_trim\obj\Debug\net8.0\q_string_trim.dll
+D:\SCCSB6\V_Strings\q_string_trim\obj\Debug\net8.0\refint\q_string_trim.dll
+D:\SCCSB6\V_Strings\q_string_trim\obj\Debug\net8.0\q_string_trim.pdb
+D:\SCCSB6\V_Strings\q_string_trim\obj\Debug\net8.0\q_string_trim.genruntimeconfig.cache
+D:\SCCSB6\V_Strings\q_string_trim\obj\Debug\net8.0\ref\q_string_trim.dll

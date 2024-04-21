@@ -1,0 +1,15 @@
+D:\SCCSB6\V_Strings\i_string_lower\obj\Debug\net8.0\i_string_lower.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\V_Strings\i_string_lower\obj\Debug\net8.0\i_string_lower.AssemblyInfoInputs.cache
+D:\SCCSB6\V_Strings\i_string_lower\obj\Debug\net8.0\i_string_lower.AssemblyInfo.cs
+D:\SCCSB6\V_Strings\i_string_lower\obj\Debug\net8.0\i_string_lower.csproj.CoreCompileInputs.cache
+D:\SCCSB6\V_Strings\i_string_lower\obj\Debug\net8.0\i_string_lower.sourcelink.json
+D:\SCCSB6\V_Strings\i_string_lower\bin\Debug\net8.0\i_string_lower.exe
+D:\SCCSB6\V_Strings\i_string_lower\bin\Debug\net8.0\i_string_lower.deps.json
+D:\SCCSB6\V_Strings\i_string_lower\bin\Debug\net8.0\i_string_lower.runtimeconfig.json
+D:\SCCSB6\V_Strings\i_string_lower\bin\Debug\net8.0\i_string_lower.dll
+D:\SCCSB6\V_Strings\i_string_lower\bin\Debug\net8.0\i_string_lower.pdb
+D:\SCCSB6\V_Strings\i_string_lower\obj\Debug\net8.0\i_string_lower.dll
+D:\SCCSB6\V_Strings\i_string_lower\obj\Debug\net8.0\refint\i_string_lower.dll
+D:\SCCSB6\V_Strings\i_string_lower\obj\Debug\net8.0\i_string_lower.pdb
+D:\SCCSB6\V_Strings\i_string_lower\obj\Debug\net8.0\i_string_lower.genruntimeconfig.cache
+D:\SCCSB6\V_Strings\i_string_lower\obj\Debug\net8.0\ref\i_string_lower.dll
