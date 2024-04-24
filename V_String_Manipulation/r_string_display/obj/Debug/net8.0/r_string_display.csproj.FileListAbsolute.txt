@@ -1,0 +1,15 @@
+D:\SCCSB6\V_String_Manipulation\r_string_display\bin\Debug\net8.0\r_string_display.exe
+D:\SCCSB6\V_String_Manipulation\r_string_display\bin\Debug\net8.0\r_string_display.deps.json
+D:\SCCSB6\V_String_Manipulation\r_string_display\bin\Debug\net8.0\r_string_display.runtimeconfig.json
+D:\SCCSB6\V_String_Manipulation\r_string_display\bin\Debug\net8.0\r_string_display.dll
+D:\SCCSB6\V_String_Manipulation\r_string_display\bin\Debug\net8.0\r_string_display.pdb
+D:\SCCSB6\V_String_Manipulation\r_string_display\obj\Debug\net8.0\r_string_display.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\V_String_Manipulation\r_string_display\obj\Debug\net8.0\r_string_display.AssemblyInfoInputs.cache
+D:\SCCSB6\V_String_Manipulation\r_string_display\obj\Debug\net8.0\r_string_display.AssemblyInfo.cs
+D:\SCCSB6\V_String_Manipulation\r_string_display\obj\Debug\net8.0\r_string_display.csproj.CoreCompileInputs.cache
+D:\SCCSB6\V_String_Manipulation\r_string_display\obj\Debug\net8.0\r_string_display.sourcelink.json
+D:\SCCSB6\V_String_Manipulation\r_string_display\obj\Debug\net8.0\r_string_display.dll
+D:\SCCSB6\V_String_Manipulation\r_string_display\obj\Debug\net8.0\refint\r_string_display.dll
+D:\SCCSB6\V_String_Manipulation\r_string_display\obj\Debug\net8.0\r_string_display.pdb
+D:\SCCSB6\V_String_Manipulation\r_string_display\obj\Debug\net8.0\r_string_display.genruntimeconfig.cache
+D:\SCCSB6\V_String_Manipulation\r_string_display\obj\Debug\net8.0\ref\r_string_display.dll

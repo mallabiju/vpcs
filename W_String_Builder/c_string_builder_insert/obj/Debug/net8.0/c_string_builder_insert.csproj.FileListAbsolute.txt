@@ -1,0 +1,15 @@
+D:\SCCSB6\W_String_Builder\c_string_builder_insert\bin\Debug\net8.0\c_string_builder_insert.exe
+D:\SCCSB6\W_String_Builder\c_string_builder_insert\bin\Debug\net8.0\c_string_builder_insert.deps.json
+D:\SCCSB6\W_String_Builder\c_string_builder_insert\bin\Debug\net8.0\c_string_builder_insert.runtimeconfig.json
+D:\SCCSB6\W_String_Builder\c_string_builder_insert\bin\Debug\net8.0\c_string_builder_insert.dll
+D:\SCCSB6\W_String_Builder\c_string_builder_insert\bin\Debug\net8.0\c_string_builder_insert.pdb
+D:\SCCSB6\W_String_Builder\c_string_builder_insert\obj\Debug\net8.0\c_string_builder_insert.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\W_String_Builder\c_string_builder_insert\obj\Debug\net8.0\c_string_builder_insert.AssemblyInfoInputs.cache
+D:\SCCSB6\W_String_Builder\c_string_builder_insert\obj\Debug\net8.0\c_string_builder_insert.AssemblyInfo.cs
+D:\SCCSB6\W_String_Builder\c_string_builder_insert\obj\Debug\net8.0\c_string_builder_insert.csproj.CoreCompileInputs.cache
+D:\SCCSB6\W_String_Builder\c_string_builder_insert\obj\Debug\net8.0\c_string_builder_insert.sourcelink.json
+D:\SCCSB6\W_String_Builder\c_string_builder_insert\obj\Debug\net8.0\c_string_builder_insert.dll
+D:\SCCSB6\W_String_Builder\c_string_builder_insert\obj\Debug\net8.0\refint\c_string_builder_insert.dll
+D:\SCCSB6\W_String_Builder\c_string_builder_insert\obj\Debug\net8.0\c_string_builder_insert.pdb
+D:\SCCSB6\W_String_Builder\c_string_builder_insert\obj\Debug\net8.0\c_string_builder_insert.genruntimeconfig.cache
+D:\SCCSB6\W_String_Builder\c_string_builder_insert\obj\Debug\net8.0\ref\c_string_builder_insert.dll

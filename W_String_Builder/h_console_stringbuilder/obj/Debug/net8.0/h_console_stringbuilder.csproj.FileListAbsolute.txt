@@ -1,0 +1,15 @@
+D:\SCCSB6\W_String_Builder\h_console_stringbuilder\bin\Debug\net8.0\h_console_stringbuilder.exe
+D:\SCCSB6\W_String_Builder\h_console_stringbuilder\bin\Debug\net8.0\h_console_stringbuilder.deps.json
+D:\SCCSB6\W_String_Builder\h_console_stringbuilder\bin\Debug\net8.0\h_console_stringbuilder.runtimeconfig.json
+D:\SCCSB6\W_String_Builder\h_console_stringbuilder\bin\Debug\net8.0\h_console_stringbuilder.dll
+D:\SCCSB6\W_String_Builder\h_console_stringbuilder\bin\Debug\net8.0\h_console_stringbuilder.pdb
+D:\SCCSB6\W_String_Builder\h_console_stringbuilder\obj\Debug\net8.0\h_console_stringbuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\W_String_Builder\h_console_stringbuilder\obj\Debug\net8.0\h_console_stringbuilder.AssemblyInfoInputs.cache
+D:\SCCSB6\W_String_Builder\h_console_stringbuilder\obj\Debug\net8.0\h_console_stringbuilder.AssemblyInfo.cs
+D:\SCCSB6\W_String_Builder\h_console_stringbuilder\obj\Debug\net8.0\h_console_stringbuilder.csproj.CoreCompileInputs.cache
+D:\SCCSB6\W_String_Builder\h_console_stringbuilder\obj\Debug\net8.0\h_console_stringbuilder.sourcelink.json
+D:\SCCSB6\W_String_Builder\h_console_stringbuilder\obj\Debug\net8.0\h_console_stringbuilder.dll
+D:\SCCSB6\W_String_Builder\h_console_stringbuilder\obj\Debug\net8.0\refint\h_console_stringbuilder.dll
+D:\SCCSB6\W_String_Builder\h_console_stringbuilder\obj\Debug\net8.0\h_console_stringbuilder.pdb
+D:\SCCSB6\W_String_Builder\h_console_stringbuilder\obj\Debug\net8.0\h_console_stringbuilder.genruntimeconfig.cache
+D:\SCCSB6\W_String_Builder\h_console_stringbuilder\obj\Debug\net8.0\ref\h_console_stringbuilder.dll

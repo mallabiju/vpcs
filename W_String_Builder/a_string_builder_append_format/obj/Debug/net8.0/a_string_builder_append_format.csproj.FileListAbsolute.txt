@@ -1,0 +1,15 @@
+D:\SCCSB6\W_String_Builder\a_string_builder_append_format\obj\Debug\net8.0\a_string_builder_append_format.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\W_String_Builder\a_string_builder_append_format\obj\Debug\net8.0\a_string_builder_append_format.AssemblyInfoInputs.cache
+D:\SCCSB6\W_String_Builder\a_string_builder_append_format\obj\Debug\net8.0\a_string_builder_append_format.AssemblyInfo.cs
+D:\SCCSB6\W_String_Builder\a_string_builder_append_format\obj\Debug\net8.0\a_string_builder_append_format.csproj.CoreCompileInputs.cache
+D:\SCCSB6\W_String_Builder\a_string_builder_append_format\obj\Debug\net8.0\a_string_builder_append_format.sourcelink.json
+D:\SCCSB6\W_String_Builder\a_string_builder_append_format\bin\Debug\net8.0\a_string_builder_append_format.exe
+D:\SCCSB6\W_String_Builder\a_string_builder_append_format\bin\Debug\net8.0\a_string_builder_append_format.deps.json
+D:\SCCSB6\W_String_Builder\a_string_builder_append_format\bin\Debug\net8.0\a_string_builder_append_format.runtimeconfig.json
+D:\SCCSB6\W_String_Builder\a_string_builder_append_format\bin\Debug\net8.0\a_string_builder_append_format.dll
+D:\SCCSB6\W_String_Builder\a_string_builder_append_format\bin\Debug\net8.0\a_string_builder_append_format.pdb
+D:\SCCSB6\W_String_Builder\a_string_builder_append_format\obj\Debug\net8.0\a_string_builder_append_format.dll
+D:\SCCSB6\W_String_Builder\a_string_builder_append_format\obj\Debug\net8.0\refint\a_string_builder_append_format.dll
+D:\SCCSB6\W_String_Builder\a_string_builder_append_format\obj\Debug\net8.0\a_string_builder_append_format.pdb
+D:\SCCSB6\W_String_Builder\a_string_builder_append_format\obj\Debug\net8.0\a_string_builder_append_format.genruntimeconfig.cache
+D:\SCCSB6\W_String_Builder\a_string_builder_append_format\obj\Debug\net8.0\ref\a_string_builder_append_format.dll

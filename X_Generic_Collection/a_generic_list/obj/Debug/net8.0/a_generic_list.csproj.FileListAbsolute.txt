@@ -1,0 +1,15 @@
+D:\SCCSB6\W_Collection\a_generic_list\bin\Debug\net8.0\a_generic_list.exe
+D:\SCCSB6\W_Collection\a_generic_list\bin\Debug\net8.0\a_generic_list.deps.json
+D:\SCCSB6\W_Collection\a_generic_list\bin\Debug\net8.0\a_generic_list.runtimeconfig.json
+D:\SCCSB6\W_Collection\a_generic_list\bin\Debug\net8.0\a_generic_list.dll
+D:\SCCSB6\W_Collection\a_generic_list\bin\Debug\net8.0\a_generic_list.pdb
+D:\SCCSB6\W_Collection\a_generic_list\obj\Debug\net8.0\a_generic_list.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\W_Collection\a_generic_list\obj\Debug\net8.0\a_generic_list.AssemblyInfoInputs.cache
+D:\SCCSB6\W_Collection\a_generic_list\obj\Debug\net8.0\a_generic_list.AssemblyInfo.cs
+D:\SCCSB6\W_Collection\a_generic_list\obj\Debug\net8.0\a_generic_list.csproj.CoreCompileInputs.cache
+D:\SCCSB6\W_Collection\a_generic_list\obj\Debug\net8.0\a_generic_list.sourcelink.json
+D:\SCCSB6\W_Collection\a_generic_list\obj\Debug\net8.0\a_generic_list.dll
+D:\SCCSB6\W_Collection\a_generic_list\obj\Debug\net8.0\refint\a_generic_list.dll
+D:\SCCSB6\W_Collection\a_generic_list\obj\Debug\net8.0\a_generic_list.pdb
+D:\SCCSB6\W_Collection\a_generic_list\obj\Debug\net8.0\a_generic_list.genruntimeconfig.cache
+D:\SCCSB6\W_Collection\a_generic_list\obj\Debug\net8.0\ref\a_generic_list.dll

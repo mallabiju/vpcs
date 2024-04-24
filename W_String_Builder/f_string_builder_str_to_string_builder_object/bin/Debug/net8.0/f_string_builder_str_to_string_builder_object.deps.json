@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "f_string_builder_str_to_string_builder_object/1.0.0": {
+        "runtime": {
+          "f_string_builder_str_to_string_builder_object.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "f_string_builder_str_to_string_builder_object/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
