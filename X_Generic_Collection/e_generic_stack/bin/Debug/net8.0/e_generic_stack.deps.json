@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "e_generic_stack/1.0.0": {
+        "runtime": {
+          "e_generic_stack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "e_generic_stack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

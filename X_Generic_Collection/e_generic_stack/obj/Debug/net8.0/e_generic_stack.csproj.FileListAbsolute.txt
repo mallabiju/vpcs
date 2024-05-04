@@ -1,0 +1,15 @@
+D:\SCCSB6\X_Generic_Collection\e_generic_stack\bin\Debug\net8.0\e_generic_stack.exe
+D:\SCCSB6\X_Generic_Collection\e_generic_stack\bin\Debug\net8.0\e_generic_stack.deps.json
+D:\SCCSB6\X_Generic_Collection\e_generic_stack\bin\Debug\net8.0\e_generic_stack.runtimeconfig.json
+D:\SCCSB6\X_Generic_Collection\e_generic_stack\bin\Debug\net8.0\e_generic_stack.dll
+D:\SCCSB6\X_Generic_Collection\e_generic_stack\bin\Debug\net8.0\e_generic_stack.pdb
+D:\SCCSB6\X_Generic_Collection\e_generic_stack\obj\Debug\net8.0\e_generic_stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\X_Generic_Collection\e_generic_stack\obj\Debug\net8.0\e_generic_stack.AssemblyInfoInputs.cache
+D:\SCCSB6\X_Generic_Collection\e_generic_stack\obj\Debug\net8.0\e_generic_stack.AssemblyInfo.cs
+D:\SCCSB6\X_Generic_Collection\e_generic_stack\obj\Debug\net8.0\e_generic_stack.csproj.CoreCompileInputs.cache
+D:\SCCSB6\X_Generic_Collection\e_generic_stack\obj\Debug\net8.0\e_generic_stack.sourcelink.json
+D:\SCCSB6\X_Generic_Collection\e_generic_stack\obj\Debug\net8.0\e_generic_stack.dll
+D:\SCCSB6\X_Generic_Collection\e_generic_stack\obj\Debug\net8.0\refint\e_generic_stack.dll
+D:\SCCSB6\X_Generic_Collection\e_generic_stack\obj\Debug\net8.0\e_generic_stack.pdb
+D:\SCCSB6\X_Generic_Collection\e_generic_stack\obj\Debug\net8.0\e_generic_stack.genruntimeconfig.cache
+D:\SCCSB6\X_Generic_Collection\e_generic_stack\obj\Debug\net8.0\ref\e_generic_stack.dll

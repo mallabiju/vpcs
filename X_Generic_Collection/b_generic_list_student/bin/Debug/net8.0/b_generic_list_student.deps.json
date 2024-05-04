@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "b_generic_list_student/1.0.0": {
+        "runtime": {
+          "b_generic_list_student.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "b_generic_list_student/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

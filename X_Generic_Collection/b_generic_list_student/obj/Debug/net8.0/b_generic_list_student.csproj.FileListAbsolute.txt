@@ -1,0 +1,15 @@
+D:\SCCSB6\X_Generic_Collection\b_generic_list_student\obj\Debug\net8.0\b_generic_list_student.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\X_Generic_Collection\b_generic_list_student\obj\Debug\net8.0\b_generic_list_student.AssemblyInfoInputs.cache
+D:\SCCSB6\X_Generic_Collection\b_generic_list_student\obj\Debug\net8.0\b_generic_list_student.AssemblyInfo.cs
+D:\SCCSB6\X_Generic_Collection\b_generic_list_student\obj\Debug\net8.0\b_generic_list_student.csproj.CoreCompileInputs.cache
+D:\SCCSB6\X_Generic_Collection\b_generic_list_student\obj\Debug\net8.0\b_generic_list_student.sourcelink.json
+D:\SCCSB6\X_Generic_Collection\b_generic_list_student\bin\Debug\net8.0\b_generic_list_student.exe
+D:\SCCSB6\X_Generic_Collection\b_generic_list_student\bin\Debug\net8.0\b_generic_list_student.deps.json
+D:\SCCSB6\X_Generic_Collection\b_generic_list_student\bin\Debug\net8.0\b_generic_list_student.runtimeconfig.json
+D:\SCCSB6\X_Generic_Collection\b_generic_list_student\bin\Debug\net8.0\b_generic_list_student.dll
+D:\SCCSB6\X_Generic_Collection\b_generic_list_student\bin\Debug\net8.0\b_generic_list_student.pdb
+D:\SCCSB6\X_Generic_Collection\b_generic_list_student\obj\Debug\net8.0\b_generic_list_student.dll
+D:\SCCSB6\X_Generic_Collection\b_generic_list_student\obj\Debug\net8.0\refint\b_generic_list_student.dll
+D:\SCCSB6\X_Generic_Collection\b_generic_list_student\obj\Debug\net8.0\b_generic_list_student.pdb
+D:\SCCSB6\X_Generic_Collection\b_generic_list_student\obj\Debug\net8.0\b_generic_list_student.genruntimeconfig.cache
+D:\SCCSB6\X_Generic_Collection\b_generic_list_student\obj\Debug\net8.0\ref\b_generic_list_student.dll

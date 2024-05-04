@@ -1,0 +1,15 @@
+D:\SCCSB6\X_Generic_Collection\c_generic_queue\bin\Debug\net8.0\c_generic_queue.exe
+D:\SCCSB6\X_Generic_Collection\c_generic_queue\bin\Debug\net8.0\c_generic_queue.deps.json
+D:\SCCSB6\X_Generic_Collection\c_generic_queue\bin\Debug\net8.0\c_generic_queue.runtimeconfig.json
+D:\SCCSB6\X_Generic_Collection\c_generic_queue\bin\Debug\net8.0\c_generic_queue.dll
+D:\SCCSB6\X_Generic_Collection\c_generic_queue\bin\Debug\net8.0\c_generic_queue.pdb
+D:\SCCSB6\X_Generic_Collection\c_generic_queue\obj\Debug\net8.0\c_generic_queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\X_Generic_Collection\c_generic_queue\obj\Debug\net8.0\c_generic_queue.AssemblyInfoInputs.cache
+D:\SCCSB6\X_Generic_Collection\c_generic_queue\obj\Debug\net8.0\c_generic_queue.AssemblyInfo.cs
+D:\SCCSB6\X_Generic_Collection\c_generic_queue\obj\Debug\net8.0\c_generic_queue.csproj.CoreCompileInputs.cache
+D:\SCCSB6\X_Generic_Collection\c_generic_queue\obj\Debug\net8.0\c_generic_queue.sourcelink.json
+D:\SCCSB6\X_Generic_Collection\c_generic_queue\obj\Debug\net8.0\c_generic_queue.dll
+D:\SCCSB6\X_Generic_Collection\c_generic_queue\obj\Debug\net8.0\refint\c_generic_queue.dll
+D:\SCCSB6\X_Generic_Collection\c_generic_queue\obj\Debug\net8.0\c_generic_queue.pdb
+D:\SCCSB6\X_Generic_Collection\c_generic_queue\obj\Debug\net8.0\c_generic_queue.genruntimeconfig.cache
+D:\SCCSB6\X_Generic_Collection\c_generic_queue\obj\Debug\net8.0\ref\c_generic_queue.dll
