@@ -1,0 +1,15 @@
+D:\SCCSB6\X_Generic_Collection\k_dictionary\bin\Debug\net8.0\k_dictionary.exe
+D:\SCCSB6\X_Generic_Collection\k_dictionary\bin\Debug\net8.0\k_dictionary.deps.json
+D:\SCCSB6\X_Generic_Collection\k_dictionary\bin\Debug\net8.0\k_dictionary.runtimeconfig.json
+D:\SCCSB6\X_Generic_Collection\k_dictionary\bin\Debug\net8.0\k_dictionary.dll
+D:\SCCSB6\X_Generic_Collection\k_dictionary\bin\Debug\net8.0\k_dictionary.pdb
+D:\SCCSB6\X_Generic_Collection\k_dictionary\obj\Debug\net8.0\k_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\X_Generic_Collection\k_dictionary\obj\Debug\net8.0\k_dictionary.AssemblyInfoInputs.cache
+D:\SCCSB6\X_Generic_Collection\k_dictionary\obj\Debug\net8.0\k_dictionary.AssemblyInfo.cs
+D:\SCCSB6\X_Generic_Collection\k_dictionary\obj\Debug\net8.0\k_dictionary.csproj.CoreCompileInputs.cache
+D:\SCCSB6\X_Generic_Collection\k_dictionary\obj\Debug\net8.0\k_dictionary.sourcelink.json
+D:\SCCSB6\X_Generic_Collection\k_dictionary\obj\Debug\net8.0\k_dictionary.dll
+D:\SCCSB6\X_Generic_Collection\k_dictionary\obj\Debug\net8.0\refint\k_dictionary.dll
+D:\SCCSB6\X_Generic_Collection\k_dictionary\obj\Debug\net8.0\k_dictionary.pdb
+D:\SCCSB6\X_Generic_Collection\k_dictionary\obj\Debug\net8.0\k_dictionary.genruntimeconfig.cache
+D:\SCCSB6\X_Generic_Collection\k_dictionary\obj\Debug\net8.0\ref\k_dictionary.dll

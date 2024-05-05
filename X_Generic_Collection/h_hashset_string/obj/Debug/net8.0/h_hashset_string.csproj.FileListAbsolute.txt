@@ -1,0 +1,15 @@
+D:\SCCSB6\X_Generic_Collection\h_hashset_string\bin\Debug\net8.0\h_hashset_string.exe
+D:\SCCSB6\X_Generic_Collection\h_hashset_string\bin\Debug\net8.0\h_hashset_string.deps.json
+D:\SCCSB6\X_Generic_Collection\h_hashset_string\bin\Debug\net8.0\h_hashset_string.runtimeconfig.json
+D:\SCCSB6\X_Generic_Collection\h_hashset_string\bin\Debug\net8.0\h_hashset_string.dll
+D:\SCCSB6\X_Generic_Collection\h_hashset_string\bin\Debug\net8.0\h_hashset_string.pdb
+D:\SCCSB6\X_Generic_Collection\h_hashset_string\obj\Debug\net8.0\h_hashset_string.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\X_Generic_Collection\h_hashset_string\obj\Debug\net8.0\h_hashset_string.AssemblyInfoInputs.cache
+D:\SCCSB6\X_Generic_Collection\h_hashset_string\obj\Debug\net8.0\h_hashset_string.AssemblyInfo.cs
+D:\SCCSB6\X_Generic_Collection\h_hashset_string\obj\Debug\net8.0\h_hashset_string.csproj.CoreCompileInputs.cache
+D:\SCCSB6\X_Generic_Collection\h_hashset_string\obj\Debug\net8.0\h_hashset_string.sourcelink.json
+D:\SCCSB6\X_Generic_Collection\h_hashset_string\obj\Debug\net8.0\h_hashset_string.dll
+D:\SCCSB6\X_Generic_Collection\h_hashset_string\obj\Debug\net8.0\refint\h_hashset_string.dll
+D:\SCCSB6\X_Generic_Collection\h_hashset_string\obj\Debug\net8.0\h_hashset_string.pdb
+D:\SCCSB6\X_Generic_Collection\h_hashset_string\obj\Debug\net8.0\h_hashset_string.genruntimeconfig.cache
+D:\SCCSB6\X_Generic_Collection\h_hashset_string\obj\Debug\net8.0\ref\h_hashset_string.dll

@@ -1,0 +1,15 @@
+D:\SCCSB6\X_Generic_Collection\m_sortedlist\bin\Debug\net8.0\m_sortedlist.exe
+D:\SCCSB6\X_Generic_Collection\m_sortedlist\bin\Debug\net8.0\m_sortedlist.deps.json
+D:\SCCSB6\X_Generic_Collection\m_sortedlist\bin\Debug\net8.0\m_sortedlist.runtimeconfig.json
+D:\SCCSB6\X_Generic_Collection\m_sortedlist\bin\Debug\net8.0\m_sortedlist.dll
+D:\SCCSB6\X_Generic_Collection\m_sortedlist\bin\Debug\net8.0\m_sortedlist.pdb
+D:\SCCSB6\X_Generic_Collection\m_sortedlist\obj\Debug\net8.0\m_sortedlist.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\X_Generic_Collection\m_sortedlist\obj\Debug\net8.0\m_sortedlist.AssemblyInfoInputs.cache
+D:\SCCSB6\X_Generic_Collection\m_sortedlist\obj\Debug\net8.0\m_sortedlist.AssemblyInfo.cs
+D:\SCCSB6\X_Generic_Collection\m_sortedlist\obj\Debug\net8.0\m_sortedlist.csproj.CoreCompileInputs.cache
+D:\SCCSB6\X_Generic_Collection\m_sortedlist\obj\Debug\net8.0\m_sortedlist.sourcelink.json
+D:\SCCSB6\X_Generic_Collection\m_sortedlist\obj\Debug\net8.0\m_sortedlist.dll
+D:\SCCSB6\X_Generic_Collection\m_sortedlist\obj\Debug\net8.0\refint\m_sortedlist.dll
+D:\SCCSB6\X_Generic_Collection\m_sortedlist\obj\Debug\net8.0\m_sortedlist.pdb
+D:\SCCSB6\X_Generic_Collection\m_sortedlist\obj\Debug\net8.0\m_sortedlist.genruntimeconfig.cache
+D:\SCCSB6\X_Generic_Collection\m_sortedlist\obj\Debug\net8.0\ref\m_sortedlist.dll
