@@ -1,0 +1,12 @@
+D:\SCCSB6\ZZZ_Visual_Studio\CodeFirst\bin\Debug\CodeFirst.exe.config
+D:\SCCSB6\ZZZ_Visual_Studio\CodeFirst\bin\Debug\CodeFirst.exe
+D:\SCCSB6\ZZZ_Visual_Studio\CodeFirst\bin\Debug\CodeFirst.pdb
+D:\SCCSB6\ZZZ_Visual_Studio\CodeFirst\bin\Debug\EntityFramework.dll
+D:\SCCSB6\ZZZ_Visual_Studio\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\SCCSB6\ZZZ_Visual_Studio\CodeFirst\bin\Debug\EntityFramework.xml
+D:\SCCSB6\ZZZ_Visual_Studio\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\SCCSB6\ZZZ_Visual_Studio\CodeFirst\obj\Debug\CodeFirst.csproj.AssemblyReference.cache
+D:\SCCSB6\ZZZ_Visual_Studio\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+D:\SCCSB6\ZZZ_Visual_Studio\CodeFirst\obj\Debug\CodeFirst.csproj.Up2Date
+D:\SCCSB6\ZZZ_Visual_Studio\CodeFirst\obj\Debug\CodeFirst.exe
+D:\SCCSB6\ZZZ_Visual_Studio\CodeFirst\obj\Debug\CodeFirst.pdb
