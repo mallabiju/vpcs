@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SCCSB6\\ZZZ_Visual_Studio\\ModelFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F629AF2C-7F25-41D4-A043-6AD4BBBC8928}|ModelFirst.csproj|D:\\SCCSB6\\ZZZ_Visual_Studio\\ModelFirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F629AF2C-7F25-41D4-A043-6AD4BBBC8928}|ModelFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F629AF2C-7F25-41D4-A043-6AD4BBBC8928}|ModelFirst.csproj|d:\\sccsb6\\zzz_visual_studio\\modelfirst\\teamodel.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{F629AF2C-7F25-41D4-A043-6AD4BBBC8928}|ModelFirst.csproj|solutionrelative:teamodel.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F629AF2C-7F25-41D4-A043-6AD4BBBC8928}|ModelFirst.csproj|d:\\sccsb6\\zzz_visual_studio\\modelfirst\\teamodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F629AF2C-7F25-41D4-A043-6AD4BBBC8928}|ModelFirst.csproj|solutionrelative:teamodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F629AF2C-7F25-41D4-A043-6AD4BBBC8928}|ModelFirst.csproj|d:\\sccsb6\\zzz_visual_studio\\modelfirst\\teamodel.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{F629AF2C-7F25-41D4-A043-6AD4BBBC8928}|ModelFirst.csproj|solutionrelative:teamodel.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F629AF2C-7F25-41D4-A043-6AD4BBBC8928}|ModelFirst.csproj|d:\\sccsb6\\zzz_visual_studio\\modelfirst\\teamodel.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{F629AF2C-7F25-41D4-A043-6AD4BBBC8928}|ModelFirst.csproj|solutionrelative:teamodel.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeaModel.edmx.sql ",
+              "DocumentMoniker": "D:\\SCCSB6\\ZZZ_Visual_Studio\\ModelFirst\\TeaModel.edmx.sql",
+              "RelativeDocumentMoniker": "TeaModel.edmx.sql",
+              "ToolTip": "D:\\SCCSB6\\ZZZ_Visual_Studio\\ModelFirst\\TeaModel.edmx.sql",
+              "RelativeToolTip": "TeaModel.edmx.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-13T15:27:43.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeaModel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\SCCSB6\\ZZZ_Visual_Studio\\ModelFirst\\TeaModel.edmx",
+              "RelativeDocumentMoniker": "TeaModel.edmx",
+              "ToolTip": "D:\\SCCSB6\\ZZZ_Visual_Studio\\ModelFirst\\TeaModel.edmx [Diagram1]",
+              "RelativeToolTip": "TeaModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-05-13T14:57:53.352Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SCCSB6\\ZZZ_Visual_Studio\\ModelFirst\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SCCSB6\\ZZZ_Visual_Studio\\ModelFirst\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:54:53.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
