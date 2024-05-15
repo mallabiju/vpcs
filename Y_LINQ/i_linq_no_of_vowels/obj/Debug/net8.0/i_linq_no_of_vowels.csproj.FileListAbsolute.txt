@@ -1,0 +1,15 @@
+D:\SCCSB6\Y_LINQ\i_linq_no_of_vowels\bin\Debug\net8.0\i_linq_no_of_vowels.exe
+D:\SCCSB6\Y_LINQ\i_linq_no_of_vowels\bin\Debug\net8.0\i_linq_no_of_vowels.deps.json
+D:\SCCSB6\Y_LINQ\i_linq_no_of_vowels\bin\Debug\net8.0\i_linq_no_of_vowels.runtimeconfig.json
+D:\SCCSB6\Y_LINQ\i_linq_no_of_vowels\bin\Debug\net8.0\i_linq_no_of_vowels.dll
+D:\SCCSB6\Y_LINQ\i_linq_no_of_vowels\bin\Debug\net8.0\i_linq_no_of_vowels.pdb
+D:\SCCSB6\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net8.0\i_linq_no_of_vowels.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net8.0\i_linq_no_of_vowels.AssemblyInfoInputs.cache
+D:\SCCSB6\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net8.0\i_linq_no_of_vowels.AssemblyInfo.cs
+D:\SCCSB6\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net8.0\i_linq_no_of_vowels.csproj.CoreCompileInputs.cache
+D:\SCCSB6\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net8.0\i_linq_no_of_vowels.sourcelink.json
+D:\SCCSB6\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net8.0\i_linq_no_of_vowels.dll
+D:\SCCSB6\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net8.0\refint\i_linq_no_of_vowels.dll
+D:\SCCSB6\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net8.0\i_linq_no_of_vowels.pdb
+D:\SCCSB6\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net8.0\i_linq_no_of_vowels.genruntimeconfig.cache
+D:\SCCSB6\Y_LINQ\i_linq_no_of_vowels\obj\Debug\net8.0\ref\i_linq_no_of_vowels.dll

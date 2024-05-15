@@ -1,0 +1,15 @@
+D:\SCCSB6\Y_LINQ\b_linq_marks_compare\bin\Debug\net8.0\b_linq_marks_compare.exe
+D:\SCCSB6\Y_LINQ\b_linq_marks_compare\bin\Debug\net8.0\b_linq_marks_compare.deps.json
+D:\SCCSB6\Y_LINQ\b_linq_marks_compare\bin\Debug\net8.0\b_linq_marks_compare.runtimeconfig.json
+D:\SCCSB6\Y_LINQ\b_linq_marks_compare\bin\Debug\net8.0\b_linq_marks_compare.dll
+D:\SCCSB6\Y_LINQ\b_linq_marks_compare\bin\Debug\net8.0\b_linq_marks_compare.pdb
+D:\SCCSB6\Y_LINQ\b_linq_marks_compare\obj\Debug\net8.0\b_linq_marks_compare.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\Y_LINQ\b_linq_marks_compare\obj\Debug\net8.0\b_linq_marks_compare.AssemblyInfoInputs.cache
+D:\SCCSB6\Y_LINQ\b_linq_marks_compare\obj\Debug\net8.0\b_linq_marks_compare.AssemblyInfo.cs
+D:\SCCSB6\Y_LINQ\b_linq_marks_compare\obj\Debug\net8.0\b_linq_marks_compare.csproj.CoreCompileInputs.cache
+D:\SCCSB6\Y_LINQ\b_linq_marks_compare\obj\Debug\net8.0\b_linq_marks_compare.sourcelink.json
+D:\SCCSB6\Y_LINQ\b_linq_marks_compare\obj\Debug\net8.0\b_linq_marks_compare.dll
+D:\SCCSB6\Y_LINQ\b_linq_marks_compare\obj\Debug\net8.0\refint\b_linq_marks_compare.dll
+D:\SCCSB6\Y_LINQ\b_linq_marks_compare\obj\Debug\net8.0\b_linq_marks_compare.pdb
+D:\SCCSB6\Y_LINQ\b_linq_marks_compare\obj\Debug\net8.0\b_linq_marks_compare.genruntimeconfig.cache
+D:\SCCSB6\Y_LINQ\b_linq_marks_compare\obj\Debug\net8.0\ref\b_linq_marks_compare.dll

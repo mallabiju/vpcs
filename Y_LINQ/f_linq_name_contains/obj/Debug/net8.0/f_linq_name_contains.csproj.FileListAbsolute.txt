@@ -1,0 +1,15 @@
+D:\SCCSB6\Y_LINQ\f_linq_name_contains\bin\Debug\net8.0\f_linq_name_contains.exe
+D:\SCCSB6\Y_LINQ\f_linq_name_contains\bin\Debug\net8.0\f_linq_name_contains.deps.json
+D:\SCCSB6\Y_LINQ\f_linq_name_contains\bin\Debug\net8.0\f_linq_name_contains.runtimeconfig.json
+D:\SCCSB6\Y_LINQ\f_linq_name_contains\bin\Debug\net8.0\f_linq_name_contains.dll
+D:\SCCSB6\Y_LINQ\f_linq_name_contains\bin\Debug\net8.0\f_linq_name_contains.pdb
+D:\SCCSB6\Y_LINQ\f_linq_name_contains\obj\Debug\net8.0\f_linq_name_contains.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\Y_LINQ\f_linq_name_contains\obj\Debug\net8.0\f_linq_name_contains.AssemblyInfoInputs.cache
+D:\SCCSB6\Y_LINQ\f_linq_name_contains\obj\Debug\net8.0\f_linq_name_contains.AssemblyInfo.cs
+D:\SCCSB6\Y_LINQ\f_linq_name_contains\obj\Debug\net8.0\f_linq_name_contains.csproj.CoreCompileInputs.cache
+D:\SCCSB6\Y_LINQ\f_linq_name_contains\obj\Debug\net8.0\f_linq_name_contains.sourcelink.json
+D:\SCCSB6\Y_LINQ\f_linq_name_contains\obj\Debug\net8.0\f_linq_name_contains.dll
+D:\SCCSB6\Y_LINQ\f_linq_name_contains\obj\Debug\net8.0\refint\f_linq_name_contains.dll
+D:\SCCSB6\Y_LINQ\f_linq_name_contains\obj\Debug\net8.0\f_linq_name_contains.pdb
+D:\SCCSB6\Y_LINQ\f_linq_name_contains\obj\Debug\net8.0\f_linq_name_contains.genruntimeconfig.cache
+D:\SCCSB6\Y_LINQ\f_linq_name_contains\obj\Debug\net8.0\ref\f_linq_name_contains.dll

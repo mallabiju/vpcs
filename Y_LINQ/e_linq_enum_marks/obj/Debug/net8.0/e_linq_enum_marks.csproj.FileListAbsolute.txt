@@ -1,0 +1,15 @@
+D:\SCCSB6\Y_LINQ\e_linq_enum_marks\bin\Debug\net8.0\e_linq_enum_marks.exe
+D:\SCCSB6\Y_LINQ\e_linq_enum_marks\bin\Debug\net8.0\e_linq_enum_marks.deps.json
+D:\SCCSB6\Y_LINQ\e_linq_enum_marks\bin\Debug\net8.0\e_linq_enum_marks.runtimeconfig.json
+D:\SCCSB6\Y_LINQ\e_linq_enum_marks\bin\Debug\net8.0\e_linq_enum_marks.dll
+D:\SCCSB6\Y_LINQ\e_linq_enum_marks\bin\Debug\net8.0\e_linq_enum_marks.pdb
+D:\SCCSB6\Y_LINQ\e_linq_enum_marks\obj\Debug\net8.0\e_linq_enum_marks.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCCSB6\Y_LINQ\e_linq_enum_marks\obj\Debug\net8.0\e_linq_enum_marks.AssemblyInfoInputs.cache
+D:\SCCSB6\Y_LINQ\e_linq_enum_marks\obj\Debug\net8.0\e_linq_enum_marks.AssemblyInfo.cs
+D:\SCCSB6\Y_LINQ\e_linq_enum_marks\obj\Debug\net8.0\e_linq_enum_marks.csproj.CoreCompileInputs.cache
+D:\SCCSB6\Y_LINQ\e_linq_enum_marks\obj\Debug\net8.0\e_linq_enum_marks.sourcelink.json
+D:\SCCSB6\Y_LINQ\e_linq_enum_marks\obj\Debug\net8.0\e_linq_enum_marks.dll
+D:\SCCSB6\Y_LINQ\e_linq_enum_marks\obj\Debug\net8.0\refint\e_linq_enum_marks.dll
+D:\SCCSB6\Y_LINQ\e_linq_enum_marks\obj\Debug\net8.0\e_linq_enum_marks.pdb
+D:\SCCSB6\Y_LINQ\e_linq_enum_marks\obj\Debug\net8.0\e_linq_enum_marks.genruntimeconfig.cache
+D:\SCCSB6\Y_LINQ\e_linq_enum_marks\obj\Debug\net8.0\ref\e_linq_enum_marks.dll
